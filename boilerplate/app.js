@@ -1,49 +1,38 @@
 var window_width = window.innerWidth;
 var window_height = window.innerHeight;
-
-var image_url = '../assets/image_1.png';
-
-var image_ratio;
-var image_size;
 var margin = 32;
 
-// image(img, 0, 0, width, height);
-// debugger;
-// let d = pixelDensity();
-// let halfImage = 4 * (width * d) * (height * d / 2);
-// loadPixels();
-// for (let i = 0; i < halfImage; i++) {
-//     pixels[i + halfImage] = pixels[i + 10];
-// }
-// updatePixels();
+const s = (sketch) => {
 
-function preload() {
-    img = loadImage(image_url);
-}
+    var img;
 
-function setup() {
-    createCanvas(window_width, window_height);
-    image_ratio = img.height / img.width;
-    image_size = window_width / 4;
+    sketch.preload = () => {
+        let url = sketch._userNode.getAttribute('data-url');
+        console.log(`preloading img: ${url}`);
+        img = sketch.loadImage(url);
+    }
 
-    image(img, margin, margin, image_size, image_size * image_ratio);
-    fill('white');
+    sketch.setup = () => {
+        sketch.createCanvas(img.width, img.height)
 
-    text('"Original" image input', margin, margin * .75);
+        sketch.image(img, margin, margin);
+    };
+
+    sketch.draw = () => {
+
+    };
+};
 
 
-    image(img, margin + image_size + margin, margin, image_size, image_size * image_ratio);
+var sketches = [];
+document.querySelectorAll('.fn-sketch').forEach((elem, index) => {
+    sketches[index] = new p5(s, elem);
+})
 
-    text('Fucked up output', margin + image_size + margin, margin * .75);
-}
 
-function draw() {
-
-}
-
-document.getElementById('store').addEventListener('click', function(e) {
-    var file_name = `export_${document.title}_${new Date().toDateString().replace(' ', '_')}`;
-    
-    saveCanvas(file_name, 'png');
-
+document.getElementById('store').addEventListener('click', function (e) {
+    sketches.forEach((sketch) => {
+        var file_name = `export_${document.title}_${sketch._userNode.getAttribute('data-url')}_${new Date().toDateString().replace(' ', '_')}`;
+        sketch.saveCanvas(file_name, 'png');
+    })
 })

@@ -1,85 +1,92 @@
 var window_width = window.innerWidth;
 var window_height = window.innerHeight;
-
-var image_url = '../assets/image_1_md.png';
-
-var image_ratio;
-var image_size;
 var margin = 32;
 
-function preload() {
-    img = loadImage(image_url);
-}
+const s = (sketch) => {
 
-function setup() {
-    createCanvas(window_width, window_height);
-    image_ratio = img.height / img.width;
-    image_size = window_width / 4;
-    pixelDensity(1);
-    // image(img, margin, margin, image_size, image_size * image_ratio);
-    img.loadPixels();
-    loadPixels();
+    var img;
 
-}
+    sortPixels = (canvasPixels, imagePixels) => {
 
-var sortPixels = function () {
+        for (var i = 4; i < imagePixels.length - 4; i += 4) {
 
-    for (var i = 4; i < img.pixels.length - 4; i += 4) {
-        // if(Math.random() > .8) { return false; }
+            let cc = color(imagePixels[i], imagePixels[i + 1], imagePixels[i + 2]);
+            var nc = color(imagePixels[i + 4], imagePixels[i + 5], imagePixels[i + 6]);
 
-        let cc = color(img.pixels[i], img.pixels[i + 1], img.pixels[i + 2]);
-        var nc = color(img.pixels[i + 4], img.pixels[i + 5], img.pixels[i + 6]);
+            if (lightness(cc) < lightness(nc)) {
 
-        if (lightness(cc) < lightness(nc)) {
+                var storedValue = {};
+                ['r', 'g', 'b', 'a'].forEach((elem, index) => {
+                    storedValue[elem] = imagePixels[i + index];
+                    imagePixels[i + index] = imagePixels[i + index + 4];
+                    imagePixels[i + index + 4] = storedValue[elem];
+                })
+            } else {
 
-            var storedValue = {};
-            ['r', 'g', 'b', 'a'].forEach((elem, index) => {
-                storedValue[elem] = img.pixels[i + index];
-                img.pixels[i + index] = img.pixels[i + index + 4];
-                img.pixels[i + index + 4] = storedValue[elem];
-            })
-        } else {
+                var storedValue = {};
+                ['r', 'g', 'b', 'a'].forEach((elem, index) => {
+                    storedValue[elem] = imagePixels[i + index];
+                    imagePixels[i + index] = imagePixels[i + index - 4];
+                    imagePixels[i + index - 4] = storedValue[elem];
+                })
+            }
 
-            var storedValue = {};
-            ['r', 'g', 'b', 'a'].forEach((elem, index) => {
-                storedValue[elem] = img.pixels[i + index];
-                img.pixels[i + index] = img.pixels[i + index - 4];
-                img.pixels[i + index - 4] = storedValue[elem];
-            })
+        }
+
+        for (let x = 0; x < img.width; x++) {
+            for (let y = 0; y < img.height; y++) {
+                // // Calculate the 1D location from a 2D grid
+                let loc = (x + y * img.width) * 4;
+                let pixloc = (y * width + x) * 4;
+                canvasPixels[pixloc] = imagePixels[loc];
+                canvasPixels[pixloc + 1] = imagePixels[loc + 1];
+                canvasPixels[pixloc + 2] = imagePixels[loc + 2];
+                canvasPixels[pixloc + 3] = imagePixels[loc + 3];
+            }
         }
 
     }
 
-    for (let x = 0; x < img.width; x++) {
-        for (let y = 0; y < img.height; y++) {
-            // // Calculate the 1D location from a 2D grid
-            let loc = (x + y * img.width) * 4;
-            let pixloc = (y * width + x) * 4;
-
-
-
-            // let cc = color(img.pixels[loc], img.pixels[loc + 1], img.pixels[loc + 2]);
-            // var nc = color(img.pixels[loc + 4], img.pixels[loc + 5], img.pixels[loc + 6]);
-
-            // if (lightness(cc) < lightness(nc)) {
-
-            //     var storedValue = {};
-            //     ['r', 'g', 'b', 'a'].forEach((elem, index) => {
-            //         storedValue[elem] = img.pixels[loc + index];
-            //         img.pixels[loc + index] = img.pixels[loc + index + 4];
-            //         img.pixels[loc + index + 4] = storedValue[elem];
-
-            //     })
-            // }
-
-            pixels[pixloc] = img.pixels[loc];
-            pixels[pixloc + 1] = img.pixels[loc + 1];
-            pixels[pixloc + 2] = img.pixels[loc + 2];
-            pixels[pixloc + 3] = img.pixels[loc + 3];
-        }
+    sketch.preload = () => {
+        let url = sketch._userNode.getAttribute('data-url');
+        console.log(`preloading img: ${url}`);
+        img = sketch.loadImage(url);
     }
 
-}
+    sketch.setup = () => {
+        sketch.createCanvas(img.width, img.height)
+        sketch.pixelDensity(.5);
+        sketch.img.loadPixels();
+        sketch.loadPixels();
+    };
+
+    sketch.draw = () => {
+        sketch.colorMode(HSL);
+
+        sketch.loadPixels();
+        pixels = sortPixels(pixels, img.pixels);
+        pixels = sortPixels(pixels, img.pixels);
+        pixels = sortPixels(pixels, img.pixels);
+
+        sketch.updatePixels();
+    };
+};
+
+
+var sketches = [];
+document.querySelectorAll('.fn-sketch').forEach((elem, index) => {
+    sketches[index] = new p5(s, elem);
+})
+
+
+document.getElementById('store').addEventListener('click', function (e) {
+    sketches.forEach((sketch) => {
+        var file_name = `export_${document.title}_${sketch._userNode.getAttribute('data-url')}_${new Date().toDateString().replace(' ', '_')}`;
+        sketch.saveCanvas(file_name, 'png');
+    })
+})
+
+
 function draw() {
     colorMode(HSL);
 
@@ -90,15 +97,6 @@ function draw() {
 
     updatePixels();
 
-
-    // let d = pixelDensity();
-
-
-
-
-    // updatePixels();
-
-    //image(img, margin + image_size + margin, margin, image_size, image_size * image_ratio);
 
 }
 

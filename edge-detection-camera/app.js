@@ -145,7 +145,6 @@ const s = (sketch) => {
 
 var sketches = [];
 document.querySelectorAll('.fn-sketch').forEach((elem, index) => {
-    console.log(elem.id)
     sketches[index] = new p5(s, elem);
 })
 
