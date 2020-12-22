@@ -1,22 +1,4 @@
-function onClick() {
-    // feature detect
 
-    if (typeof DeviceMotionEvent.requestPermission === 'function') {
-        DeviceMotionEvent.requestPermission()
-            .then(permissionState => {
-                alert(permissionState);
-                if (permissionState === 'granted') {
-                    window.addEventListener('devicemotion', () => { alert('oi') });
-                }
-            })
-            .catch(alert(1));
-    } else {
-        // handle regular non iOS 13+ devices
-        alert(2);
-    }
-}
-
-document.body.addEventListener('click', onClick);
 var window_width = window.innerWidth;
 var window_height = window.innerHeight;
 var margin = 32;
