@@ -14,7 +14,6 @@ const s = (sketch) => {
 
     sketch.setup = () => {
         sketch.createCanvas(img.width, img.height)
-        // sketch.image(img, margin, margin);
         tileCount = 100;
         rectSize = sketch.width / tileCount;
         colors = [];
@@ -30,14 +29,13 @@ const s = (sketch) => {
                 var i = (py * img.width + px) * 4;
                 var c = sketch.color(img.pixels[i], img.pixels[i + 1], img.pixels[i + 2], img.pixels[i + 3])
                 colors.push(c);
-
             }
         }
 
     };
 
     sketch.draw = () => {
-        
+
         sortColorsSlow(sketch, colors, 'red');
         sortColorsSlow(sketch, colors, 'red');
         sortColorsSlow(sketch, colors, 'red');
