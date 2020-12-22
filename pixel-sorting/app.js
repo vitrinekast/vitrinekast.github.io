@@ -69,7 +69,7 @@ const s = (sketch) => {
 
         sketch.loadPixels();
         
-        sketch.pixels = sortPixels(sketch.pixels, img.pixels);
+        // sketch.pixels = sortPixels(sketch.pixels, img.pixels);
         
 
         sketch.updatePixels();
