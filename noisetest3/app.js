@@ -12,11 +12,6 @@ const s = (sketch) => {
     sketch.setup = () => {
         sketch.createCanvas(sketch.windowWidth, sketch.windowHeight);
         sketch.background(255);
-
-
-
-
-
     };
 
     sketch.draw = () => {
@@ -25,7 +20,7 @@ const s = (sketch) => {
         sketch.translate(0, sketch.height / 2)
         sketch.background(255, 255, 255, 20);
 
-        sketch.stroke(51 * sketch.cos(phase), 51 * sketch.cos(phase), 51, 51);
+        sketch.stroke(180 * sketch.cos(phase), 51 * sketch.cos(phase), 180, 51);
         sketch.noFill();
         phase += 0.01;
         points = [];
