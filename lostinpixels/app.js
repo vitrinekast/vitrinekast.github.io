@@ -93,7 +93,6 @@ const s = (sketch) => {
         sketch.createCanvas(window.innerWidth, window.innerWidth)
         resizeImage();
         sketch.noStroke();
-
         createImage();
 
     }

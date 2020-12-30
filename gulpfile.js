@@ -16,6 +16,7 @@ function watchFiles() {
     server: {
       baseDir: './'
     },
+    
     notify: false
   });
 
