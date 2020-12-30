@@ -28,12 +28,13 @@ const s = (sketch) => {
 
             sketch.loadJSON(`../_scraper/${username}/${username}.json`, (data) => {
                 
-                data.posts = data.posts.reverse().slice(0, 9);
+                data.posts = data.posts.reverse();
                 
                 data.posts.forEach((post, index) => {
                     sketch.loadImage(`../_scraper/${username}/${post}`, (result) => {
                         images.push({
                             img: result,
+                            url: post.substring(post.lastIndexOf("/") + 1, post.lastIndexOf(".")).split("_"),
                             timeAgo: getTimeAgo(post)
                         });
                         if (images.length === data.posts.length ) {
@@ -129,7 +130,7 @@ const s = (sketch) => {
             sketch.image(imageData.img, 0, 0);
             sketch.fill('white');
             sketch.text(username, 5, 15);
-            sketch.text(`${imageData.timeAgo} | ${dif} | ${rgbDif}`, 5, 30);
+            sketch.text(`${imageData.url} `, 5, 30);
             sketch.pop();
 
         })

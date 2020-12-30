@@ -1,7 +1,7 @@
 const s = (sketch) => {
 
     var username, sel, allUserData, timeInput;
-    var size = 800;
+    var size = 1500;
     var images = [];
     var margin = 32;
     var docTitle = '';
@@ -20,7 +20,7 @@ const s = (sketch) => {
         return 0
     }
 
-   
+
     updateFeed = () => {
         username = sel.selected();
         document.title = `${docTitle}: ${username}`
@@ -29,20 +29,20 @@ const s = (sketch) => {
         return new Promise(function (resolve, reject) {
 
             sketch.loadJSON(`../_scraper/${username}/${username}.json`, (data) => {
-                
+
                 data.posts = data.posts.reverse().slice(0, 1);
-                
+
                 data.posts.forEach((post, index) => {
                     sketch.loadImage(`../_scraper/${username}/${post}`, (result) => {
                         images.push({
                             img: result,
                             timeAgo: getTimeAgo(post)
                         });
-                        if (images.length === data.posts.length ) {
+                        if (images.length === data.posts.length) {
                             resolve(images);
                         }
 
-                        if(!result) {
+                        if (!result) {
                             reject(Error('no!'))
                         }
                     });
@@ -62,11 +62,11 @@ const s = (sketch) => {
     function drawFeed() {
         sketch.clear();
         sel.position(0, 10);
-        timeInput.position(0, 30)
+
         sketch.resizeCanvas(size, (size + margin) * images.length)
 
         images.forEach((imageData, imageIndex) => {
-            console.log('drawFeed item', imageData.img.width, imageData.img.height, sketch.width, sketch.height)
+            console.log('drawFeed item', imageData.timeAgo)
             sketch.push();
             // imageData.timeAgo += 1;
 
@@ -129,12 +129,19 @@ const s = (sketch) => {
             sketch.translate(0, imageIndex * (size + margin))
 
             sketch.image(imageData.img, 0, 0);
-            sketch.fill('white');
-            sketch.text(username, 5, 15);
-            sketch.text(`${imageData.timeAgo}`, 5, 30);
+            // sketch.fill('white');
+            // sketch.text(username, 5, 15);
+            // sketch.text(`${imageData.timeAgo}`, 5, 30);
             sketch.pop();
 
+
         })
+    }
+
+    saveFile = () => {
+        console.log('do somethign')
+        var fileName = `Snapshot Day ${images[0].timeAgo} - ${new Date().toDateString()} - @${username}`;
+        sketch.saveCanvas(fileName, 'png');
     }
 
     sketch.preload = () => {
@@ -150,6 +157,24 @@ const s = (sketch) => {
 
         updateFeed().then(function (val) {
             drawFeed();
+
+            var i = 0;
+
+            function myLoop() {
+                setTimeout(function () {
+                    console.log(i)
+                    i+= 0.5;
+                    images.forEach(image => image.timeAgo = i);
+                    drawFeed();
+                    saveFile();
+                    if (i < 50) {
+                        myLoop();
+                    }
+                }, 1000)
+            }
+
+            myLoop();
+
         })
     };
 
@@ -168,7 +193,6 @@ document.querySelectorAll('.fn-sketch').forEach((elem, index) => {
 document.getElementById('store').addEventListener('click', function (e) {
     console.log(sketches);
     sketches.forEach((sketch) => {
-        var file_name = `export_${document.title}_${sketch._userNode.getAttribute('data-url')}_${new Date().toDateString().replace(' ', '_')}`;
-        sketch.saveCanvas(file_name, 'png');
+        // sketch.saveFile();
     })
 })
