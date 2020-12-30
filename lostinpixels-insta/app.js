@@ -15,7 +15,7 @@ const s = (sketch) => {
         timestamp.setMinutes(filename[2].substring(filename[2].indexOf('h') + 2, filename[2].indexOf('m')))
         timestamp.setSeconds(filename[2].substring(filename[2].indexOf('m') + 2, filename[2].indexOf('s')))
         timeAgo = Math.round((new Date() - timestamp) / (1000 * 60 * 60 * 24));
-        console.log(timeAgo);
+
         document.title += username;
     }
 
@@ -74,31 +74,13 @@ const s = (sketch) => {
                                 img.pixels[index + (img.height * 4) + 2] = img.pixels[index + 2] + dif;
                                 img.pixels[index + (img.height * 4) + 3] = img.pixels[index + 3] + dif;
                             }
-                            img.pixels[index ] = img.pixels[index  + (sketch.max(1, sketch.min(10, rgbDif)) * 4)];
+                            img.pixels[index] = img.pixels[index + (sketch.max(1, sketch.min(10, rgbDif)) * 4)];
                             img.pixels[index + 1] = img.pixels[index + 1 + (sketch.max(1, sketch.min(10, rgbDif)) * 4)];
                             img.pixels[index + 2] = img.pixels[index + 2 + (sketch.max(1, sketch.min(10, rgbDif)) * 4)];
                         }
                     } else {
-                        
+
                     }
-
-
-
-                    // img.pixels[index ] = img.pixels[index + 2 + (1 * 4)];
-                    // if (rgbDif > 1 && x > (timeAgo * 10) < x < (timeAgo * 15)) {
-                    //     img.pixels[index] = img.pixels[index + (rgbDif * 4)];
-                    // }
-                    // if (rgbDif > 1 && x > (timeAgo * 6) < x < (timeAgo * 8) && y > (timeAgo*8 - x)) {
-                    
-
-                    // }
-
-
-
-
-
-
-
                 };
 
             }

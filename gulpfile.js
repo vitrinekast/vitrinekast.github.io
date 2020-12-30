@@ -9,14 +9,12 @@ const doSomething = () => {
 
 }
 
-
-
 function watchFiles() {
   browserSync.init({
     server: {
       baseDir: './'
     },
-    
+
     notify: false
   });
 

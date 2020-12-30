@@ -18,10 +18,12 @@
   "homepage": "https://github.com/vitrinekast/vitrinekast.github.io#readme",
   "devDependencies": {
     "browser-sync": "^2.26.13",
+    "cheerio": "^1.0.0-rc.5",
     "fs": "0.0.1-security",
     "gulp": "^4.0.2",
     "gulp-local-screenshots": "^2.2.0",
     "gulp-tap": "^2.0.0",
+    "image-downloader": "^4.0.2",
     "phantomjs": "^2.1.7",
     "puppeteer": "^5.5.0"
   }
