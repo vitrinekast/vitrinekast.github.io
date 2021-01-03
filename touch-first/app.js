@@ -28,6 +28,22 @@ const allPositions = {
             { x: 461 * multiplier, y: 490 * multiplier, em: 0 },
             { x: 350 * multiplier, y: 508 * multiplier, em: 0 },
         ]
+    ],
+    tinder: [
+        [
+            { x: 285 * multiplier, y: 181 * multiplier, em: 0 },
+            { x: 280 * multiplier, y: 189 * multiplier, em: 0 }
+        ],
+        [
+            { x: 438 * multiplier, y: 493 * multiplier, em: 0 },
+            { x: 352 * multiplier, y: 520 * multiplier, em: 0 },
+            { x: 285 * multiplier, y: 650    * multiplier, em: 0 },
+        ],
+        [
+            { x: 416 * multiplier, y: 502 * multiplier, em: 0 },
+            { x: 352 * multiplier, y: 530 * multiplier, em: 0 },
+            { x: 380 * multiplier, y: 590 * multiplier, em: 0 },
+        ]
     ]
 }
 
@@ -58,7 +74,7 @@ const s = (sketch) => {
 
         var ratio = img.height / img.width;
         img.resize(size, size * ratio);
-        positions = allPositions.netflix;
+        positions = allPositions.tinder;
         drawOnce();
 
     };
