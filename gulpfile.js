@@ -9,6 +9,7 @@ const config = {
   html: {
     src: ['**/*.html', '!node_modules/**/*.html', '!boilerplate/*.html'],
     dest: './',
+    main: "./index.html",
     title: "<title>(.*?)</title>"
   },
   js: {
@@ -37,9 +38,37 @@ const config = {
 const setTitle = () => {
   return gulp.src(config.html.src)
     .pipe(tap((file) => {
+      const r = new RegExp("<\s*title[^>]*>(.*?)<\s*/\s*title>", 'g');
       file.contents = new Buffer.from(String(file.contents)
-        .replace(config.html.title, path.basename(file.dirname))
+        .replace(r, `<title>${path.basename(file.dirname)}</title>`)
       );
+    }))
+    .pipe(gulp.dest(config.html.dest));
+}
+
+const setNav = () => {
+  let list;
+  let html;
+  const r = new RegExp("<ul[^>]*>(.*?)<\/ul>", 'g');
+  return gulp.src(config.html.main)
+
+    .pipe(tap((file) => {
+      list = [];
+      html = '';
+      fs.readdirSync("./").filter(function (file) {
+        return fs.existsSync("./" + file + "/index.html")
+      })
+        .forEach((item) => {
+          if (item) {
+            html += `<li><a href="/${item}/">${item}</a></li>`
+            list.push(item)
+          }
+        })
+        console.log(file);
+      file.contents = new Buffer.from(String(file.contents)
+        .replace(r, `<ul>${html}</ul>`)
+      );
+
     }))
     .pipe(gulp.dest(config.html.dest));
 }
@@ -82,4 +111,4 @@ function watchFiles() {
 }
 
 exports.default = gulp.series(setTitle, watchFiles);
-exports.clean = gulp.series(setTitle);
+exports.clean = gulp.series(setNav);
