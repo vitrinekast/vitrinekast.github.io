@@ -9,12 +9,11 @@ const config = {
   html: {
     src: ['**/*.html', '!node_modules/**/*.html', '!boilerplate/*.html'],
     dest: './',
-    title: /{{PAGE_TITLE}}/
+    title: "<title>(.*?)</title>"
   },
   js: {
     src: ['*/*.js'],
-    dest: './',
-    title: /{{PAGE_TITLE}}/
+    dest: './'
   },
   exports: {
     dest: '_exports'
@@ -68,6 +67,7 @@ function watchFiles() {
             element.style.visibility = "hidden";
           })
         })
+        await page.setViewport({ width: 1024, height: 800 });
 
         await page.screenshot({
           path: `${path.basename(file.dirname, ".html")}/_exports/${new Date()}.png`,
@@ -75,10 +75,11 @@ function watchFiles() {
           omitBackground: true
         });
 
+
         await browser.close();
       }))
   });
 }
 
-exports.watch = gulp.series(setTitle, watchFiles);
+exports.default = gulp.series(setTitle, watchFiles);
 exports.clean = gulp.series(setTitle);
