@@ -5,16 +5,17 @@ const s = (sketch) => {
     var images = [];
     var margin = 32;
     var docTitle = '';
+    var itjes = 0;
 
     getTimeAgo = (url) => {
         url = url.replace(' ', '_');
         var filename = url.substring(url.lastIndexOf("/") + 1, url.lastIndexOf(".")).split("_");
-        var timestamp = new Date(`${filename[1].substring(0, 4)}-${filename[1].substring(4, 6)}-${filename[1].substring(6, 8)}`);
+        // var timestamp = new Date(`${filename[1].substring(0, 4)}-${filename[1].substring(4, 6)}-${filename[1].substring(6, 8)}`);
 
-        timestamp.setHours(filename[2].substring(0, filename[2].indexOf('h')))
-        timestamp.setMinutes(filename[2].substring(filename[2].indexOf('h') + 2, filename[2].indexOf('m')))
-        timestamp.setSeconds(filename[2].substring(filename[2].indexOf('m') + 2, filename[2].indexOf('s')))
-        timeAgo = Math.round((new Date() - timestamp) / (1000 * 60 * 60 * 24));
+        // timestamp.setHours(filename[2].substring(0, filename[2].indexOf('h')))
+        // timestamp.setMinutes(filename[2].substring(filename[2].indexOf('h') + 2, filename[2].indexOf('m')))
+        // timestamp.setSeconds(filename[2].substring(filename[2].indexOf('m') + 2, filename[2].indexOf('s')))
+        // timeAgo = Math.round((new Date() - timestamp) / (1000 * 60 * 60 * 24));
 
         // return Math.round((new Date() - timestamp) / (1000 * 60 * 60 * 24));
         return 0
@@ -66,7 +67,6 @@ const s = (sketch) => {
         sketch.resizeCanvas(size, (size + margin) * images.length)
 
         images.forEach((imageData, imageIndex) => {
-            console.log('drawFeed item', imageData.timeAgo)
             sketch.push();
             // imageData.timeAgo += 1;
 
@@ -80,14 +80,14 @@ const s = (sketch) => {
 
             sketch.noStroke();
             var nothing = 0;
-            var removeBrightness = imageData.timeAgo < 10 ? 10 - imageData.timeAgo : sketch.round(imageData.timeAgo / 10);
+            var removeBrightness = itjes < 10 ? 10 - itjes : sketch.round(itjes / 10);
             for (let x = 0; x < imageData.img.width; x++) {
                 for (let y = 0; y < imageData.img.height; y++) {
                     var index = ((y * imageData.img.width) + x) * 4;
 
                     if (typeof imageData.img.pixels[index + (imageData.img.width * 4)] === 'number') {
 
-                        if (imageData.timeAgo > 2) {
+                        if (itjes > 2) {
 
                             // calculate brightness of the image
                             hsp1 = Math.sqrt(
@@ -139,7 +139,6 @@ const s = (sketch) => {
     }
 
     saveFile = () => {
-        console.log('do somethign')
         var fileName = `Snapshot Day ${images[0].timeAgo} - ${new Date().toDateString()} - @${username}`;
         sketch.saveCanvas(fileName, 'png');
     }
@@ -158,28 +157,33 @@ const s = (sketch) => {
         updateFeed().then(function (val) {
             drawFeed();
 
-            var i = 0;
+            itjes = 1;
 
-            function myLoop() {
-                setTimeout(function () {
-                    console.log(i)
-                    i+= 0.5;
-                    images.forEach(image => image.timeAgo = i);
-                    drawFeed();
-                    saveFile();
-                    if (i < 50) {
-                        myLoop();
-                    }
-                }, 1000)
-            }
+            // function myLoop() {
+            //     setTimeout(function () {
+            //         i+= 10;
+            //         images.forEach(image => image.timeAgo = i);
+            //         drawFeed();
+            //         // saveFile();
+            //         if (i < 50) {
+            //             myLoop();
+            //         }
+            //     }, 1000)
+            // }
 
-            myLoop();
+            // myLoop();
 
         })
     };
 
     sketch.draw = () => {
         // drawFeed();
+        if(itjes > 0) {
+            drawFeed();
+            console.log(itjes);
+            // images.forEach(image => image.timeAgo = itjes);
+            itjes++;
+        }
     };
 };
 
@@ -191,7 +195,6 @@ document.querySelectorAll('.fn-sketch').forEach((elem, index) => {
 
 
 document.getElementById('store').addEventListener('click', function (e) {
-    console.log(sketches);
     sketches.forEach((sketch) => {
         // sketch.saveFile();
     })

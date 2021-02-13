@@ -37,7 +37,7 @@ const allPositions = {
         [
             { x: 438 * multiplier, y: 493 * multiplier, em: 0 },
             { x: 352 * multiplier, y: 520 * multiplier, em: 0 },
-            { x: 285 * multiplier, y: 650    * multiplier, em: 0 },
+            { x: 285 * multiplier, y: 650 * multiplier, em: 0 },
         ],
         [
             { x: 416 * multiplier, y: 502 * multiplier, em: 0 },
@@ -50,14 +50,11 @@ const allPositions = {
 
 const s = (sketch) => {
     var size = 800 * multiplier;
-    var c;
     var xoff = 0;
-    var lineModule = [];
     var bezierObjects;
-
     var img;
     var positions = [];
-    var positionsPath = [];
+
     sketch.preload = () => {
         let url = sketch._userNode.getAttribute('data-url');
         console.log(`preloading img: ${url}`);
@@ -81,10 +78,7 @@ const s = (sketch) => {
 
     sketch.draw = () => {
         sketch.clear();
-        // sketch.background('white');
-
         // sketch.image(img, 0, 0);
-        // var array = bewzo
 
         if (bezierObjects && bezierObjects.length > 0) {
             bezierObjects.forEach((bezierObject) => {
@@ -115,72 +109,20 @@ const s = (sketch) => {
 
     drawOnce = () => {
         sketch.clear();
-
-
-
         var path = [];
         positionsPath = [];
         positions.forEach((posArray, i) => {
             var arr = [];
-            posArray.forEach((pos, index) => {
-                arr.push([pos.x, pos.y]);
-
-                // if (index > 1) {
-                //     var lPos = positions[index - 1];
-                //     let angleBetween = Math.atan2(pos.y - lPos.y, pos.x - lPos.x);
-                //     var dist = sketch.floor(sketch.int(sketch.dist(lPos.x, lPos.y, pos.x, pos.y)));
-                //     var step = 2;
-
-                //     for (var i = 0; i < dist; i += step) {
-                //         let endV = p5.Vector.fromAngle(angleBetween * 1.1, i);
-                //         endV.x = endV.x + lPos.x;
-                //         endV.y = endV.y + lPos.y;
-                //         endV.em = pos.em;
-                //         positionsPath.push(endV)
-                //     }
-                //     // 
-                // }
-            })
+            posArray.forEach(pos => arr.push([pos.x, pos.y]))
             path.push(arr);
         })
 
-
         window.positions = positions;
-
-
-
-        // if(!path.length) return false
-        sketch.noFill();
         bezierObjects = [];
+
         path.forEach((p) => {
             bezierObjects.push(p5bezier.newBezierObj(p, 'OPEN', 7))
         })
-
-
-    }
-
-
-
-    getPercentage = (value, max) => {
-        return (value * 100) / max
-    }
-
-    getValue = (perc, max) => {
-        return (perc * max) / 100;
-    }
-
-    getEm = () => {
-        if (sketch.keyIsDown(51)) {
-            return 3
-        }
-        if (sketch.keyIsDown(50)) {
-            return 2
-        }
-        if (sketch.keyIsDown(49)) {
-            return 1
-        } else {
-            return 0
-        }
     }
 
     sketch.mousePressed = () => {
@@ -190,7 +132,6 @@ const s = (sketch) => {
             em: getEm()
         }
         console.log(position);
-        // positions.push(position);
         drawOnce();
     }
 };

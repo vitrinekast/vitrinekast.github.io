@@ -1,0 +1,3758 @@
+[
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-08T07:23:41.601Z[UTC]",
+    "searchQuery" : "lana",
+    "searchInteractionURIs" : [
+      "spotify:artist:00FQb4jTyendYWaN8pK0wa"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-08T07:24:30.192Z[UTC]",
+    "searchQuery" : "3fm",
+    "searchInteractionURIs" : [
+      "spotify:show:2sJ6fY2NK5eWUDdWreGs3t",
+      "spotify:playlist:6gIAkN8yDny047kJjj2bNy"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-09T08:22:37.173Z[UTC]",
+    "searchQuery" : "justice ",
+    "searchInteractionURIs" : [
+      "",
+      "spotify:artist:1gR0gsQYfi6joyO1dlp76N"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-09T08:24:44.205Z[UTC]",
+    "searchQuery" : "busy p",
+    "searchInteractionURIs" : [
+      "spotify:artist:3coXUO5EiwR37nzX4xWjIV"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-09T08:25:18.774Z[UTC]",
+    "searchQuery" : "hardgaan",
+    "searchInteractionURIs" : [
+      "spotify:playlist:0cBgrOU7S7VE8V9OK2iGlQ",
+      "spotify:playlist:72TAndVtKdSzz4wf6Ulcwh",
+      "spotify:playlist:72TAndVtKdSzz4wf6Ulcwh"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-09T08:26:21.414Z[UTC]",
+    "searchQuery" : "hard beats",
+    "searchInteractionURIs" : [
+      "spotify:playlist:1OKpnIs3OV2671yveBECVE",
+      "spotify:playlist:1OKpnIs3OV2671yveBECVE",
+      "spotify:playlist:2DOGw1rVmLlxR3yGkrZLuI",
+      "spotify:playlist:2DOGw1rVmLlxR3yGkrZLuI"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-09T08:26:37.040Z[UTC]",
+    "searchQuery" : "techno",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DX6J5NfMJS675"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-09T08:27:24.276Z[UTC]",
+    "searchQuery" : "boris",
+    "searchInteractionURIs" : [
+      "spotify:artist:6caPJFLv1wesmM7gwK1ACy",
+      "",
+      "spotify:playlist:37i9dQZF1DZ06evO3EGp5w"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-09T08:27:38.974Z[UTC]",
+    "searchQuery" : "dance ",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DX0BcQWzuB7ZO"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-09T08:37:28.400Z[UTC]",
+    "searchQuery" : "tra",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-09T08:37:29.590Z[UTC]",
+    "searchQuery" : "rave",
+    "searchInteractionURIs" : [
+      "spotify:playlist:38vr7NgHsawYgbZfufd2Pc",
+      "spotify:playlist:37i9dQZF1DX8cbjeZ4UYIG",
+      "spotify:playlist:37i9dQZF1DX8cbjeZ4UYIG"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-09T08:39:12.845Z[UTC]",
+    "searchQuery" : "knife party",
+    "searchInteractionURIs" : [
+      "spotify:artist:2DuJi13MWHjRHrqRUwk8vH"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-09T11:37:45.245Z[UTC]",
+    "searchQuery" : "casey",
+    "searchInteractionURIs" : [
+      "spotify:playlist:3KgmoRtq0tgqEqJFTVy4Lt"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-09T17:29:35.673Z[UTC]",
+    "searchQuery" : "lmfa",
+    "searchInteractionURIs" : [
+      "spotify:artist:3sgFRtyBnxXD5ESfmbK4dl"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-10T17:09:52.900Z[UTC]",
+    "searchQuery" : "knife",
+    "searchInteractionURIs" : [
+      "spotify:artist:2DuJi13MWHjRHrqRUwk8vH"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-11T11:20:23.181Z[UTC]",
+    "searchQuery" : "sha",
+    "searchInteractionURIs" : [
+      "spotify:playlist:6JIOmQ26PjbW5yezED1oMM"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-12T05:27:32.358Z[UTC]",
+    "searchQuery" : "rele",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZEVXbdHNQwefwwU7"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-12T06:39:44.800Z[UTC]",
+    "searchQuery" : "release",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZEVXbdHNQwefwwU7",
+      "spotify:playlist:37i9dQZEVXbdHNQwefwwU7"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-13T17:58:18.975Z[UTC]",
+    "searchQuery" : "rele",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZEVXbdHNQwefwwU7"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-14T13:04:42.089Z[UTC]",
+    "searchQuery" : "nob",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-14T15:06:54.612Z[UTC]",
+    "searchQuery" : "relese",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZEVXbdHNQwefwwU7"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-14T17:18:46.232Z[UTC]",
+    "searchQuery" : "bli",
+    "searchInteractionURIs" : [
+      "spotify:track:0VjIjW4GlUZAMYd2vXMi3b"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-14T21:44:41.511Z[UTC]",
+    "searchQuery" : "bieber",
+    "searchInteractionURIs" : [
+      "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-15T07:47:04.982Z[UTC]",
+    "searchQuery" : "podcasts",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-15T07:47:07.230Z[UTC]",
+    "searchQuery" : "groot nieu",
+    "searchInteractionURIs" : [
+      "spotify:show:5l4eaNyMFQZKJwK1Xuvxbu"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-16T06:01:33.984Z[UTC]",
+    "searchQuery" : "bieb",
+    "searchInteractionURIs" : [
+      "spotify:artist:1uNFoZAHBGtllmzznpCI3s",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-16T06:36:04.077Z[UTC]",
+    "searchQuery" : "james ",
+    "searchInteractionURIs" : [
+      "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-16T09:41:23.178Z[UTC]",
+    "searchQuery" : "relea",
+    "searchInteractionURIs" : [
+      "",
+      "spotify:playlist:37i9dQZEVXbdHNQwefwwU7"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-16T10:00:48.754Z[UTC]",
+    "searchQuery" : "benny bla",
+    "searchInteractionURIs" : [
+      "spotify:artist:5CiGnKThu5ctn9pBxv7DGa"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-16T10:01:05.770Z[UTC]",
+    "searchQuery" : "juice w",
+    "searchInteractionURIs" : [
+      "spotify:artist:4MCBfE4596Uoi2O4DtmEMz"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-16T10:01:20.499Z[UTC]",
+    "searchQuery" : "san holo",
+    "searchInteractionURIs" : [
+      "spotify:artist:0jNDKefhfSbLR9sFvcPLHo",
+      "spotify:artist:0jNDKefhfSbLR9sFvcPLHo"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-16T10:01:39.133Z[UTC]",
+    "searchQuery" : "justin bieber",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DXc2aPBXGmXrt",
+      "",
+      "spotify:playlist:37i9dQZF1DXc2aPBXGmXrt"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-16T12:02:18.016Z[UTC]",
+    "searchQuery" : "harry ",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DZ06evO3ZsXzq",
+      "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-16T20:21:52.502Z[UTC]",
+    "searchQuery" : "sela een toek",
+    "searchInteractionURIs" : [
+      "spotify:track:5P7r4U9DWwnCvyiSDjYDF8"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-16T23:34:49.352Z[UTC]",
+    "searchQuery" : "alien",
+    "searchInteractionURIs" : [
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-16T23:35:00.535Z[UTC]",
+    "searchQuery" : "sting",
+    "searchInteractionURIs" : [
+      "spotify:artist:0Ty63ceoRnnJKVEYP0VQpk"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-17T23:12:22.829Z[UTC]",
+    "searchQuery" : "ghettom",
+    "searchInteractionURIs" : [
+      "spotify:track:1zb9cdsTMrEEL2Ut8rmTb6",
+      "spotify:track:1zb9cdsTMrEEL2Ut8rmTb6",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-17T23:12:48.220Z[UTC]",
+    "searchQuery" : "gloorplan we ",
+    "searchInteractionURIs" : [
+      "spotify:track:1l3K4IPHiL7IHfLMbDreHW"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-18T11:16:19.461Z[UTC]",
+    "searchQuery" : "james",
+    "searchInteractionURIs" : [
+      "",
+      "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-19T06:11:05.170Z[UTC]",
+    "searchQuery" : "vi",
+    "searchInteractionURIs" : [
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-19T06:11:06.899Z[UTC]",
+    "searchQuery" : "bie",
+    "searchInteractionURIs" : [
+      "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-19T11:49:25.770Z[UTC]",
+    "searchQuery" : "groot nieuws radio",
+    "searchInteractionURIs" : [
+      "spotify:search:groot%20nieuws%20radio:shows"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-19T12:15:30.360Z[UTC]",
+    "searchQuery" : "groot nieuws radio radio",
+    "searchInteractionURIs" : [
+      "spotify:show:5l4eaNyMFQZKJwK1Xuvxbu"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-19T14:06:35.192Z[UTC]",
+    "searchQuery" : "preek van de week",
+    "searchInteractionURIs" : [
+      "spotify:show:6dTIhW6s4eNOJycVWzhDhp"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-19T14:16:49.903Z[UTC]",
+    "searchQuery" : " De duurzame podcast groot nieuws radio",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-19T14:17:10.218Z[UTC]",
+    "searchQuery" : "groot nieuws radio het groene pad",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-19T15:08:43.651Z[UTC]",
+    "searchQuery" : "groot nieuws radio het groene pad  ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-19T16:50:58.202Z[UTC]",
+    "searchQuery" : "bieber",
+    "searchInteractionURIs" : [
+      "spotify:artist:1uNFoZAHBGtllmzznpCI3s",
+      "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-19T17:44:00.541Z[UTC]",
+    "searchQuery" : "jungl",
+    "searchInteractionURIs" : [
+      "spotify:artist:59oA5WbbQvomJz2BuRG071",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-19T17:45:50.085Z[UTC]",
+    "searchQuery" : "anderha",
+    "searchInteractionURIs" : [
+      "spotify:track:4fmNSmnh5hFOHZ1vXOEgvN"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-20T04:44:10.214Z[UTC]",
+    "searchQuery" : "r",
+    "searchInteractionURIs" : [
+      "spotify:genre:rnb"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-20T04:44:13.755Z[UTC]",
+    "searchQuery" : "re",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZEVXbdHNQwefwwU7"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-20T16:17:46.363Z[UTC]",
+    "searchQuery" : "anderh",
+    "searchInteractionURIs" : [
+      "spotify:track:4fmNSmnh5hFOHZ1vXOEgvN"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-20T21:10:25.949Z[UTC]",
+    "searchQuery" : "the who gonna ",
+    "searchInteractionURIs" : [
+      "spotify:track:7jFImjC2qNx6K4WP8PPzGv"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-20T21:58:38.320Z[UTC]",
+    "searchQuery" : "maria ronn",
+    "searchInteractionURIs" : [
+      "spotify:track:6F3KVKjrgcxsSsZyUNuRAA",
+      "spotify:track:6F3KVKjrgcxsSsZyUNuRAA",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-20T22:02:01.163Z[UTC]",
+    "searchQuery" : "worsh",
+    "searchInteractionURIs" : [
+      "spotify:playlist:17cbyJEkWpfpKy0uK7bNfx"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-20T22:03:56.974Z[UTC]",
+    "searchQuery" : "worship",
+    "searchInteractionURIs" : [
+      "spotify:playlist:5y5FOPjMYbjYFZwIRPlkaU",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-20T22:05:28.898Z[UTC]",
+    "searchQuery" : "groot ni",
+    "searchInteractionURIs" : [
+      "spotify:playlist:0TgzdVNWd3dVOy9lis5U5X",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-20T22:06:51.468Z[UTC]",
+    "searchQuery" : "g",
+    "searchInteractionURIs" : [
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-20T22:06:54.304Z[UTC]",
+    "searchQuery" : "hilde",
+    "searchInteractionURIs" : [
+      "spotify:artist:2xt1t3lfZ5FGaEKrs0jp0d"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-21T08:26:00.711Z[UTC]",
+    "searchQuery" : "Vaporwave",
+    "searchInteractionURIs" : [
+      "spotify:playlist:3PPbbsJhktmX5Cp6syx7gR",
+      "spotify:playlist:37i9dQZF1DWU4EQPjP9ZpS",
+      "spotify:playlist:37i9dQZF1DWU4EQPjP9ZpS",
+      "",
+      "spotify:playlist:2gAWeRMaTzFCQBXDh2rwWE",
+      "spotify:playlist:2gAWeRMaTzFCQBXDh2rwWE"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-21T10:33:40.769Z[UTC]",
+    "searchQuery" : "docter ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-21T15:50:17.031Z[UTC]",
+    "searchQuery" : "hotel",
+    "searchInteractionURIs" : [
+      "spotify:search:hotel:tracks",
+      "spotify:search:hotel:tracks"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-22T11:53:46.528Z[UTC]",
+    "searchQuery" : "ma",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-23T13:44:43.474Z[UTC]",
+    "searchQuery" : "chainsm",
+    "searchInteractionURIs" : [
+      "spotify:artist:69GGBxA162lTqCwzJG5jLp",
+      "spotify:playlist:37i9dQZF1DX46HBMApdlID",
+      "spotify:playlist:37i9dQZF1DX46HBMApdlID",
+      "spotify:artist:69GGBxA162lTqCwzJG5jLp",
+      "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-23T14:32:37.860Z[UTC]",
+    "searchQuery" : "light years away",
+    "searchInteractionURIs" : [
+      "spotify:track:1jTFvRr3wbyRhg2lYJhtTQ",
+      "spotify:track:1jTFvRr3wbyRhg2lYJhtTQ"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-23T14:44:21.221Z[UTC]",
+    "searchQuery" : "light years away",
+    "searchInteractionURIs" : [
+      "spotify:track:1jTFvRr3wbyRhg2lYJhtTQ",
+      "spotify:track:1jTFvRr3wbyRhg2lYJhtTQ"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-23T15:33:55.545Z[UTC]",
+    "searchQuery" : "huilend na",
+    "searchInteractionURIs" : [
+      "spotify:track:2PBdpbHKhTSDIcKAzPR6Oo",
+      "spotify:track:2PBdpbHKhTSDIcKAzPR6Oo"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-23T20:36:41.241Z[UTC]",
+    "searchQuery" : "oliver tr",
+    "searchInteractionURIs" : [
+      "spotify:artist:6TLwD7HPWuiOzvXEa3oCNe"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-24T11:49:26.362Z[UTC]",
+    "searchQuery" : "porter robin",
+    "searchInteractionURIs" : [
+      "spotify:artist:3dz0NnIZhtKKeXZxLOxCam"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-24T14:49:32.194Z[UTC]",
+    "searchQuery" : "jack u",
+    "searchInteractionURIs" : [
+      "spotify:artist:1HxJeLhIuegM3KgvPn8sTa",
+      "spotify:track:2RpKh7kXSdO8NLrW9VQ46p",
+      "spotify:track:3UgSQu6WwrXfKKDq019IHE"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-25T06:53:39.325Z[UTC]",
+    "searchQuery" : "chains",
+    "searchInteractionURIs" : [
+      "spotify:track:1EZfCViOJ9XKFbwX8FkZUF",
+      "spotify:track:7BKLCZ1jbUBVqRi2FVlTVw",
+      "spotify:track:6RUKPb4LETWmmr3iAEQktW",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-25T06:53:56.235Z[UTC]",
+    "searchQuery" : "supersaw",
+    "searchInteractionURIs" : [
+      "spotify:search:playlists:supersaw",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-25T06:54:01.182Z[UTC]",
+    "searchQuery" : "supersaw",
+    "searchInteractionURIs" : [
+      "spotify:playlist:1xJtCLRDkU6B7J0vyZrpZD"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-25T06:59:45.858Z[UTC]",
+    "searchQuery" : "wynne",
+    "searchInteractionURIs" : [
+      "spotify:artist:3fhz0PcZrd3o3xB8APuoPX",
+      "spotify:artist:7MtZPIh0gpnInKFnXGcYDS"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-25T16:43:04.984Z[UTC]",
+    "searchQuery" : "sylvan e",
+    "searchInteractionURIs" : [
+      "spotify:artist:39vA9YljbnOApXKniLWBZv"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-26T07:27:18.176Z[UTC]",
+    "searchQuery" : "Terravita",
+    "searchInteractionURIs" : [
+      "spotify:artist:34krK3AW06onvB0x7mfkkN"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-26T07:33:45.271Z[UTC]",
+    "searchQuery" : "re",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZEVXbdHNQwefwwU7"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-26T08:00:57.656Z[UTC]",
+    "searchQuery" : "release radar",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZEVXbdHNQwefwwU7"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-26T13:28:24.514Z[UTC]",
+    "searchQuery" : "floating po",
+    "searchInteractionURIs" : [
+      "spotify:artist:2AR42Ur9PcchQDtEdwkv4L",
+      "spotify:artist:2AR42Ur9PcchQDtEdwkv4L"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-26T16:40:57.137Z[UTC]",
+    "searchQuery" : "pvr",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-26T16:40:57.402Z[UTC]",
+    "searchQuery" : "pvris",
+    "searchInteractionURIs" : [
+      "spotify:artist:6oFs3qk4VepIVFdoD4jmsy",
+      "spotify:playlist:37i9dQZF1DZ06evO3McuhG"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-26T22:45:49.482Z[UTC]",
+    "searchQuery" : "the we",
+    "searchInteractionURIs" : [
+      "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-27T07:00:13.022Z[UTC]",
+    "searchQuery" : "pvris",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-27T07:54:25.476Z[UTC]",
+    "searchQuery" : "pvris",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-27T08:08:31.955Z[UTC]",
+    "searchQuery" : "focus",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DWZZbwlv3Vmtr"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-27T20:21:11Z[UTC]",
+    "searchQuery" : "droeloe",
+    "searchInteractionURIs" : [
+      "spotify:artist:0u18Cq5stIQLUoIaULzDmA",
+      "spotify:artist:0u18Cq5stIQLUoIaULzDmA"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-27T21:33:38.328Z[UTC]",
+    "searchQuery" : "bieber",
+    "searchInteractionURIs" : [
+      "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-28T06:28:38.233Z[UTC]",
+    "searchQuery" : "f",
+    "searchInteractionURIs" : [
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-28T06:28:40.952Z[UTC]",
+    "searchQuery" : "disc",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZEVXcK9dJ9AiNwYk",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-28T06:40:12.802Z[UTC]",
+    "searchQuery" : "para",
+    "searchInteractionURIs" : [
+      "spotify:artist:74XFHRwlV6OrjEM0A2NCMF"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-28T16:11:16.387Z[UTC]",
+    "searchQuery" : "afstand",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-28T16:42:31.413Z[UTC]",
+    "searchQuery" : "afstand",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-28T18:27:45.401Z[UTC]",
+    "searchQuery" : "afstand",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-28T18:30:10.612Z[UTC]",
+    "searchQuery" : "pv",
+    "searchInteractionURIs" : [
+      "spotify:artist:6oFs3qk4VepIVFdoD4jmsy"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-28T18:52:30.502Z[UTC]",
+    "searchQuery" : "afstand",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-28T20:53:03.701Z[UTC]",
+    "searchQuery" : "afstand",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-28T22:57:21.047Z[UTC]",
+    "searchQuery" : "afstand",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-29T02:58:13.343Z[UTC]",
+    "searchQuery" : "afstand",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-10-29T07:17:40.313Z[UTC]",
+    "searchQuery" : "merol",
+    "searchInteractionURIs" : [
+      "spotify:artist:7J41Q5hdwuBgyVo7zGhPhO"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-29T07:43:32.402Z[UTC]",
+    "searchQuery" : "afstand",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-29T07:45:27.016Z[UTC]",
+    "searchQuery" : "afstand ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-29T10:01:54.038Z[UTC]",
+    "searchQuery" : "focus",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DWZZbwlv3Vmtr"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-29T10:47:35.492Z[UTC]",
+    "searchQuery" : "pvris",
+    "searchInteractionURIs" : [
+      "spotify:artist:6oFs3qk4VepIVFdoD4jmsy"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-29T13:50:18.132Z[UTC]",
+    "searchQuery" : "harry sty",
+    "searchInteractionURIs" : [
+      "spotify:artist:6KImCVD70vtIoJWnq6nGn3",
+      "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-30T08:20:49.307Z[UTC]",
+    "searchQuery" : "focus",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DWZZbwlv3Vmtr"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-10-30T09:21:29.868Z[UTC]",
+    "searchQuery" : "release",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZEVXbdHNQwefwwU7"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-01T22:58:35.423Z[UTC]",
+    "searchQuery" : "pvris",
+    "searchInteractionURIs" : [
+      "spotify:artist:6oFs3qk4VepIVFdoD4jmsy"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-02T14:15:56.401Z[UTC]",
+    "searchQuery" : "focus",
+    "searchInteractionURIs" : [
+      "spotify:app:genre:focus"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-02T14:16:22.077Z[UTC]",
+    "searchQuery" : "focus flow",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-02T14:16:23.356Z[UTC]",
+    "searchQuery" : "h.e.r.",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DZ06evO2jCwrS",
+      "spotify:artist:3Y7RZ31TRPVadSFVy1o8os"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-03T07:30:39.709Z[UTC]",
+    "searchQuery" : "rele",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZEVXbdHNQwefwwU7"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-03T10:05:12.924Z[UTC]",
+    "searchQuery" : "harrty",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DZ06evO3ZsXzq",
+      "spotify:playlist:37i9dQZF1DZ06evO3ZsXzq"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-03T14:03:59.906Z[UTC]",
+    "searchQuery" : "fireba",
+    "searchInteractionURIs" : [
+      "spotify:track:4Y7XAxTANhu3lmnLAzhWJW"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-04T07:11:56.613Z[UTC]",
+    "searchQuery" : "dis",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZEVXcK9dJ9AiNwYk",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-04T07:12:58.761Z[UTC]",
+    "searchQuery" : "3",
+    "searchInteractionURIs" : [
+      "spotify:playlist:6gIAkN8yDny047kJjj2bNy"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-04T09:31:24.647Z[UTC]",
+    "searchQuery" : "get down for this",
+    "searchInteractionURIs" : [
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-04T09:32:00.578Z[UTC]",
+    "searchQuery" : "get down for that",
+    "searchInteractionURIs" : [
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-04T09:32:09.043Z[UTC]",
+    "searchQuery" : "dj snale tu",
+    "searchInteractionURIs" : [
+      "spotify:track:67awxiNHNyjMXhVgsHuIrs"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-04T11:09:35.361Z[UTC]",
+    "searchQuery" : "Nouvelle Vagu",
+    "searchInteractionURIs" : [
+      "spotify:artist:4h7NLIlg1oYdEtfQJfyto0"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-06T12:46:18.047Z[UTC]",
+    "searchQuery" : "lowaddicts",
+    "searchInteractionURIs" : [
+      "spotify:artist:1QdneqQDb5m5VE0m2a1gFt"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-06T12:47:22.097Z[UTC]",
+    "searchQuery" : "LudoWic",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-06T12:51:41.167Z[UTC]",
+    "searchQuery" : "LudoWic ",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DZ06evO2vZITS",
+      "spotify:artist:4iH5e8eV3hGNCzhFwr1cND"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-06T12:54:13.327Z[UTC]",
+    "searchQuery" : "LudoWic  wende",
+    "searchInteractionURIs" : [
+      "spotify:track:6YkcLQbVQ4EEmG4je6smp3"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-06T13:39:26.210Z[UTC]",
+    "searchQuery" : "LudoWic  wende",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-06T14:34:42.299Z[UTC]",
+    "searchQuery" : "LudoWic  wende",
+    "searchInteractionURIs" : [
+      "spotify:track:6YkcLQbVQ4EEmG4je6smp3"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-07T01:08:45.630Z[UTC]",
+    "searchQuery" : "le lion",
+    "searchInteractionURIs" : [
+      "spotify:artist:3AP6mgYmcQCXrifhfYRrPp"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-08T09:04:31.503Z[UTC]",
+    "searchQuery" : "rel",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZEVXbdHNQwefwwU7"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-08T14:19:30.710Z[UTC]",
+    "searchQuery" : "thats not",
+    "searchInteractionURIs" : [
+      "spotify:track:1i1OuCNhNf7JwrlWlFZFu1"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-08T20:54:27.554Z[UTC]",
+    "searchQuery" : "Who Modeselektor",
+    "searchInteractionURIs" : [
+      "spotify:track:0LJcP6ApERw0OvosstOdZm"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-08T22:50:14.543Z[UTC]",
+    "searchQuery" : "pvri",
+    "searchInteractionURIs" : [
+      "spotify:artist:6oFs3qk4VepIVFdoD4jmsy"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-09T08:36:26.329Z[UTC]",
+    "searchQuery" : "paramore",
+    "searchInteractionURIs" : [
+      "spotify:artist:74XFHRwlV6OrjEM0A2NCMF",
+      "spotify:playlist:37i9dQZF1DWV24eoTgHIrd"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-09T09:29:23.553Z[UTC]",
+    "searchQuery" : "paramore",
+    "searchInteractionURIs" : [
+      "spotify:artist:74XFHRwlV6OrjEM0A2NCMF"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-09T20:04:22.877Z[UTC]",
+    "searchQuery" : "pads",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-09T20:29:44.221Z[UTC]",
+    "searchQuery" : "frou",
+    "searchInteractionURIs" : [
+      "spotify:artist:0uBVyPbLZRDNEBiA4fZUlp",
+      "spotify:artist:0uBVyPbLZRDNEBiA4fZUlp"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-10T07:02:04.349Z[UTC]",
+    "searchQuery" : "MORNING",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DWWLToO3EeTtX"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-10T16:47:04.015Z[UTC]",
+    "searchQuery" : "jean paul",
+    "searchInteractionURIs" : [
+      "spotify:playlist:6hYkMv3AIZPsK0IIsEcJET",
+      "",
+      "spotify:playlist:6hYkMv3AIZPsK0IIsEcJET"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-11T10:53:51.327Z[UTC]",
+    "searchQuery" : "le lion",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-11T12:02:23.565Z[UTC]",
+    "searchQuery" : "le lion",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-11T19:35:42.835Z[UTC]",
+    "searchQuery" : "le lion",
+    "searchInteractionURIs" : [
+      "spotify:artist:3AP6mgYmcQCXrifhfYRrPp",
+      "spotify:artist:3AP6mgYmcQCXrifhfYRrPp"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-11T19:41:39.958Z[UTC]",
+    "searchQuery" : "le lion",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-11T22:24:35.634Z[UTC]",
+    "searchQuery" : "boaz",
+    "searchInteractionURIs" : [
+      "spotify:artist:7Gl7G1JK7feTWHy1YJExfw",
+      "spotify:search:playlists:boaz"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-11T22:24:48.011Z[UTC]",
+    "searchQuery" : "boaz",
+    "searchInteractionURIs" : [
+      "spotify:playlist:2cpHpAkSOQvZcyv0DlkagE"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-12T07:04:49.725Z[UTC]",
+    "searchQuery" : "rel",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZEVXbdHNQwefwwU7",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-12T07:05:03.393Z[UTC]",
+    "searchQuery" : "disco",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZEVXcK9dJ9AiNwYk"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-12T12:39:29.376Z[UTC]",
+    "searchQuery" : "focus",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DWZZbwlv3Vmtr"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-12T14:05:31.901Z[UTC]",
+    "searchQuery" : "new wave",
+    "searchInteractionURIs" : [
+      "spotify:album:6yNagpRsQLiEsNts3ft9Ow",
+      "spotify:playlist:37i9dQZF1DX3Gj7nguS95W"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-12T14:05:56.601Z[UTC]",
+    "searchQuery" : "jack ",
+    "searchInteractionURIs" : [
+      "spotify:search:jack%20:artists"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-12T14:06:42.031Z[UTC]",
+    "searchQuery" : "jack $hirak",
+    "searchInteractionURIs" : [
+      "spotify:artist:4ZgfpYnslJn2sEIH70pOq2"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-12T14:07:05.820Z[UTC]",
+    "searchQuery" : "Jack Chiraq",
+    "searchInteractionURIs" : [
+      "spotify:artist:6rBl8DEjZilzyidHS7R1xM",
+      "spotify:artist:6rBl8DEjZilzyidHS7R1xM"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-12T14:07:24.970Z[UTC]",
+    "searchQuery" : "drank en drugs",
+    "searchInteractionURIs" : [
+      "spotify:track:4rHIGjDTXXL9Eudf3YF036",
+      "spotify:track:4rHIGjDTXXL9Eudf3YF036"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-12T14:07:47.331Z[UTC]",
+    "searchQuery" : "shirak",
+    "searchInteractionURIs" : [
+      "spotify:artist:1uUuCEXmWpKN2YLl5xSoT2"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-12T20:00:19.573Z[UTC]",
+    "searchQuery" : "cramby",
+    "searchInteractionURIs" : [
+      "spotify:artist:1qxDhjTatsIGuMVF3LMAOX"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T13:17:00.506Z[UTC]",
+    "searchQuery" : "s10",
+    "searchInteractionURIs" : [
+      "spotify:artist:1zT9SWCzN45r7oVhy0VYLK"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-13T13:31:27.012Z[UTC]",
+    "searchQuery" : "release",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZEVXbdHNQwefwwU7"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-13T13:37:36.272Z[UTC]",
+    "searchQuery" : "focus",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DWZZbwlv3Vmtr"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T15:30:16.869Z[UTC]",
+    "searchQuery" : "nu lux",
+    "searchInteractionURIs" : [
+      "spotify:artist:69JzJkIoOTUDPr4ulrp71n"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T15:30:43.700Z[UTC]",
+    "searchQuery" : "ghost ",
+    "searchInteractionURIs" : [
+      "spotify:track:7vgTNTaEz3CsBZ1N4YQalM",
+      "spotify:track:44aN5xKL3kGHvQ5bXVk6B8"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-13T16:11:33.581Z[UTC]",
+    "searchQuery" : "artic",
+    "searchInteractionURIs" : [
+      "spotify:playlist:41qVyqjkuUXdiyaz6Ijdw0"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T18:07:09.261Z[UTC]",
+    "searchQuery" : "spulwa",
+    "searchInteractionURIs" : [
+      "spotify:artist:43mWhBXSflupNLuNjM5vff",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T18:08:35.577Z[UTC]",
+    "searchQuery" : "osc",
+    "searchInteractionURIs" : [
+      "spotify:artist:0dLWSYE7my9AbpQYNJ0ABV",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T19:03:36.217Z[UTC]",
+    "searchQuery" : "payaso de ro",
+    "searchInteractionURIs" : [
+      "spotify:track:42VQugkpESmrfi5t80IyNK"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T19:03:45.995Z[UTC]",
+    "searchQuery" : "payaso de rodeo",
+    "searchInteractionURIs" : [
+      "spotify:track:5eI6frM6leMtOJkvJ2qRBC",
+      "spotify:track:5eI6frM6leMtOJkvJ2qRBC",
+      "spotify:track:6ZzqsrZ1xAjDzd2ORGOzoA",
+      "spotify:track:3qnqP0khm8u7IJxI8yAYxe",
+      "spotify:search:tracks:payaso%20de%20rodeo"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T19:04:03.797Z[UTC]",
+    "searchQuery" : "payaso de rodeo",
+    "searchInteractionURIs" : [
+      "spotify:track:4HIthZyewjR6JMX2HYFxot",
+      "spotify:track:0mO0XsX1fTl7U1ZU5R9UPG",
+      "spotify:track:43JtryG78cOa9BWRHjA4Zu",
+      "spotify:track:7jWjSC7BKxVj7oUeyKqPLX"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T19:04:47.731Z[UTC]",
+    "searchQuery" : "payaso de rodeo caballo",
+    "searchInteractionURIs" : [
+      "spotify:search:tracks:payaso%20de%20rodeo%20caballo"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T19:04:49.459Z[UTC]",
+    "searchQuery" : "payaso de rodeo caballo",
+    "searchInteractionURIs" : [
+      "spotify:track:1RCqbq0JEr3d5bjRZldL9p",
+      "spotify:track:0EVcfyLGhkvm2RMXMWI456",
+      "spotify:track:7jWjSC7BKxVj7oUeyKqPLX"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T21:13:45.124Z[UTC]",
+    "searchQuery" : "fatb",
+    "searchInteractionURIs" : [
+      "spotify:artist:4Y7tXHSEejGu1vQ9bwDdXW",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T21:14:18.910Z[UTC]",
+    "searchQuery" : "droel",
+    "searchInteractionURIs" : [
+      "spotify:artist:0u18Cq5stIQLUoIaULzDmA",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T21:31:09.894Z[UTC]",
+    "searchQuery" : "james blake bon",
+    "searchInteractionURIs" : [
+      "spotify:track:0TLAptKgYxe7F0KewWH6X6",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T21:33:03.399Z[UTC]",
+    "searchQuery" : "friends bon",
+    "searchInteractionURIs" : [
+      "spotify:track:0ZpBPavoID3eDbaXKSWpAD",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T21:37:18.777Z[UTC]",
+    "searchQuery" : "kanye i ",
+    "searchInteractionURIs" : [
+      "spotify:track:4S8d14HvHb70ImctNgVzQQ"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T22:10:37.148Z[UTC]",
+    "searchQuery" : "de f",
+    "searchInteractionURIs" : [
+      "spotify:track:5VRI5mHFHJVRoXIYSHOqEz",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T22:11:05.725Z[UTC]",
+    "searchQuery" : "de likt",
+    "searchInteractionURIs" : [
+      "spotify:artist:6gts99IY4QwNnrXNkh7Gr3"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T22:14:12.999Z[UTC]",
+    "searchQuery" : "witte wi",
+    "searchInteractionURIs" : [
+      "spotify:track:1uVxzXxHNI4nJ3Noaae0sa",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T22:16:36.545Z[UTC]",
+    "searchQuery" : "q",
+    "searchInteractionURIs" : [
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T22:16:41.093Z[UTC]",
+    "searchQuery" : "6",
+    "searchInteractionURIs" : [
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T22:16:53.498Z[UTC]",
+    "searchQuery" : "6",
+    "searchInteractionURIs" : [
+      "spotify:track:4DAaQ5InUO23d8yNRbB0Yj",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T22:17:22.596Z[UTC]",
+    "searchQuery" : "lany il",
+    "searchInteractionURIs" : [
+      "spotify:track:2btKtacOXuMtC9WjcNRvAA",
+      "spotify:track:3Dkvp3L4w0uJFYfIPa8E9H",
+      "spotify:track:3Qb2Dzo6O55nlhY9ePIu27"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T22:18:39.108Z[UTC]",
+    "searchQuery" : "flip floo",
+    "searchInteractionURIs" : [
+      "spotify:track:4ZY2tTJfvwD8dpayRECrXs",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T22:19:55.473Z[UTC]",
+    "searchQuery" : "bakerman",
+    "searchInteractionURIs" : [
+      "spotify:track:6AxqU1NcIvnBC3W62TSk3n"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T22:25:26.674Z[UTC]",
+    "searchQuery" : "sacudi ",
+    "searchInteractionURIs" : [
+      "spotify:track:0mJ4gUvV1bnAtgKlzDrrRK",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T22:27:10.384Z[UTC]",
+    "searchQuery" : "froukj",
+    "searchInteractionURIs" : [
+      "spotify:artist:0uBVyPbLZRDNEBiA4fZUlp",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T22:33:30.735Z[UTC]",
+    "searchQuery" : "bad b",
+    "searchInteractionURIs" : [
+      "spotify:artist:4q3ewBCX7sLwd24euuV69X",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T22:33:47.934Z[UTC]",
+    "searchQuery" : "rebota",
+    "searchInteractionURIs" : [
+      "spotify:track:2YRvdf9cdS88y1wB1WhKoE"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T23:06:44.539Z[UTC]",
+    "searchQuery" : "100% ni",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T23:07:08.709Z[UTC]",
+    "searchQuery" : "100% nigga",
+    "searchInteractionURIs" : [
+      "spotify:playlist:5gUVB759is2U1UiHcY4OWu",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T23:16:04.108Z[UTC]",
+    "searchQuery" : "tim ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T23:16:05.155Z[UTC]",
+    "searchQuery" : "tim",
+    "searchInteractionURIs" : [
+      "spotify:artist:31TPClRtHm23RisEBtV3X7",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T23:17:20.764Z[UTC]",
+    "searchQuery" : "bruno",
+    "searchInteractionURIs" : [
+      "spotify:artist:0du5cEVh5yTK9QJze8zA0C",
+      "spotify:playlist:37i9dQZF1DX177vQ7mVRmP",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T23:17:50.909Z[UTC]",
+    "searchQuery" : "roadtr",
+    "searchInteractionURIs" : [
+      "spotify:playlist:6HqVRuOtcfySXp6g97FBJ5",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T23:23:07.162Z[UTC]",
+    "searchQuery" : "cardi",
+    "searchInteractionURIs" : [
+      "spotify:artist:4kYSro6naA4h99UJvo89HB",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-13T23:40:46.718Z[UTC]",
+    "searchQuery" : "where",
+    "searchInteractionURIs" : [
+      "spotify:track:66hayvUbTotekKU3H4ta1f",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-14T00:13:04.180Z[UTC]",
+    "searchQuery" : "john mayer find",
+    "searchInteractionURIs" : [
+      "spotify:track:3oGRjCpV07tCM5mrYv6iQA",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-14T00:17:12.276Z[UTC]",
+    "searchQuery" : "systeem",
+    "searchInteractionURIs" : [
+      "spotify:track:7kvPQpzkEXJwXuKVDfaQcm",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-14T00:22:30.058Z[UTC]",
+    "searchQuery" : "boss ",
+    "searchInteractionURIs" : [
+      "spotify:track:78qd8dvwea0Gosb6Fe6j3k",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-14T00:23:34.668Z[UTC]",
+    "searchQuery" : "sean ",
+    "searchInteractionURIs" : [
+      "spotify:artist:3Isy6kedDrgPYoTS1dazA9",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-14T00:29:12.422Z[UTC]",
+    "searchQuery" : "umbre",
+    "searchInteractionURIs" : [
+      "spotify:track:49FYlytm3dAAraYgpoJZux",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-14T00:29:30.811Z[UTC]",
+    "searchQuery" : "bitches",
+    "searchInteractionURIs" : [
+      "spotify:track:6gPqBegU4aDWoSYXeCyURA",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-14T00:33:37.358Z[UTC]",
+    "searchQuery" : "payado ",
+    "searchInteractionURIs" : [
+      "spotify:track:0EVcfyLGhkvm2RMXMWI456",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-14T00:35:49.742Z[UTC]",
+    "searchQuery" : "bad b",
+    "searchInteractionURIs" : [
+      "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-14T13:42:26.300Z[UTC]",
+    "searchQuery" : "georgia bar",
+    "searchInteractionURIs" : [
+      "spotify:artist:5RIdHQDnfwxwxXDRuX3H1Y",
+      "spotify:artist:5RIdHQDnfwxwxXDRuX3H1Y"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-14T13:42:48.560Z[UTC]",
+    "searchQuery" : "georgia barnes started",
+    "searchInteractionURIs" : [
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-14T13:42:53.036Z[UTC]",
+    "searchQuery" : "started out ",
+    "searchInteractionURIs" : [
+      "spotify:track:7l5Z2grGc47Hs84Zm7XobV"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-16T13:55:16.987Z[UTC]",
+    "searchQuery" : "taylor",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-16T13:55:19.958Z[UTC]",
+    "searchQuery" : "georgi",
+    "searchInteractionURIs" : [
+      "spotify:artist:06knYh538h5SI7OAEF8ek3",
+      "spotify:playlist:37i9dQZF1DX0lyPY3TrtOd",
+      "spotify:playlist:37i9dQZF1DX0lyPY3TrtOd"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-16T19:16:15.950Z[UTC]",
+    "searchQuery" : "burak bal",
+    "searchInteractionURIs" : [
+      "spotify:artist:4Ce2aGgjaHi1mWV6q103jB"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-16T19:16:26.358Z[UTC]",
+    "searchQuery" : "burak balkan lo",
+    "searchInteractionURIs" : [
+      "spotify:track:1i66HZ75Rbra9Lh3J4OQ54"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-16T19:21:48.783Z[UTC]",
+    "searchQuery" : "s",
+    "searchInteractionURIs" : [
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-16T19:21:49.692Z[UTC]",
+    "searchQuery" : "e",
+    "searchInteractionURIs" : [
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-16T19:21:59.933Z[UTC]",
+    "searchQuery" : "winterquotez",
+    "searchInteractionURIs" : [
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-16T19:22:44.239Z[UTC]",
+    "searchQuery" : "dababy",
+    "searchInteractionURIs" : [
+      "spotify:artist:4r63FhuTkUYltbVAg5TQnk"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-17T21:53:07.609Z[UTC]",
+    "searchQuery" : "Lunar David Guetta",
+    "searchInteractionURIs" : [
+      "spotify:track:6i7fGIyktBDlEe4PlpiU0Q"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-17T23:43:35.164Z[UTC]",
+    "searchQuery" : "eef",
+    "searchInteractionURIs" : [
+      "spotify:artist:33KABng8GO42ojFJVcABxQ"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-18T07:38:39.640Z[UTC]",
+    "searchQuery" : "bill",
+    "searchInteractionURIs" : [
+      "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-18T09:09:14.041Z[UTC]",
+    "searchQuery" : "fall ou",
+    "searchInteractionURIs" : [
+      "spotify:artist:4UXqAaa6dQYAk18Lv7PEgX"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-18T16:02:53.867Z[UTC]",
+    "searchQuery" : "Hallman  ELWIN",
+    "searchInteractionURIs" : [
+      "spotify:artist:10S05PcIDD0jYe0GTS1272"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-18T16:03:33.475Z[UTC]",
+    "searchQuery" : "wes",
+    "searchInteractionURIs" : [
+      "spotify:artist:3tXUeiWOSod3mSQ2lOautf"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-18T22:56:44.132Z[UTC]",
+    "searchQuery" : "knaldr",
+    "searchInteractionURIs" : [
+      "spotify:playlist:2irKqDXVUxQyQYF1MvF2CJ"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-19T06:45:42.611Z[UTC]",
+    "searchQuery" : "para",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DWV24eoTgHIrd"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-19T06:52:39.994Z[UTC]",
+    "searchQuery" : "pvr",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-19T07:16:47.513Z[UTC]",
+    "searchQuery" : "pvr",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-19T07:50:08.035Z[UTC]",
+    "searchQuery" : "pvr",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-19T17:57:15.727Z[UTC]",
+    "searchQuery" : "taylor bon",
+    "searchInteractionURIs" : [
+      "spotify:track:4pvb0WLRcMtbPGmtejJJ6y",
+      "spotify:track:4pvb0WLRcMtbPGmtejJJ6y",
+      "spotify:track:4pvb0WLRcMtbPGmtejJJ6y",
+      "spotify:track:4pvb0WLRcMtbPGmtejJJ6y",
+      "spotify:track:59HA1SBz1DPCCvdDeILV7E",
+      "spotify:track:59HA1SBz1DPCCvdDeILV7E"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-19T17:58:37.466Z[UTC]",
+    "searchQuery" : "tay",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DX5KpP2LN299J"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-19T22:14:24.759Z[UTC]",
+    "searchQuery" : "bieb",
+    "searchInteractionURIs" : [
+      "spotify:artist:1uNFoZAHBGtllmzznpCI3s",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-19T23:45:20.901Z[UTC]",
+    "searchQuery" : "tommy",
+    "searchInteractionURIs" : [
+      "spotify:album:5cT7ee1sy2oEbFalP4asS4"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-20T08:04:35.759Z[UTC]",
+    "searchQuery" : "rel",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZEVXbdHNQwefwwU7"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-20T08:15:03.316Z[UTC]",
+    "searchQuery" : "release",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZEVXbdHNQwefwwU7",
+      "spotify:playlist:37i9dQZEVXbdHNQwefwwU7"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-20T13:43:21.571Z[UTC]",
+    "searchQuery" : "focus",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DWZZbwlv3Vmtr"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-20T13:43:28.993Z[UTC]",
+    "searchQuery" : "hans zim",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DWWF3yivn1m3D",
+      "spotify:playlist:37i9dQZF1DWWF3yivn1m3D"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-20T14:22:37.441Z[UTC]",
+    "searchQuery" : "drum n bass",
+    "searchInteractionURIs" : [
+      "spotify:playlist:3zOIkcgkFFIefjUhiGkaZq"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-20T21:41:49.080Z[UTC]",
+    "searchQuery" : "drum n bass",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-20T22:22:05.881Z[UTC]",
+    "searchQuery" : "drum n bass",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-20T23:38:16.069Z[UTC]",
+    "searchQuery" : "drum n bass",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-21T00:18:57.877Z[UTC]",
+    "searchQuery" : "drum n bass",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-21T01:35:34.093Z[UTC]",
+    "searchQuery" : "drum n bass",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-21T02:12:28.040Z[UTC]",
+    "searchQuery" : "drum n bass",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-21T04:17:46.832Z[UTC]",
+    "searchQuery" : "drum n bass",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-21T06:55:12.295Z[UTC]",
+    "searchQuery" : "drum n bass",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-21T07:31:20.619Z[UTC]",
+    "searchQuery" : "drum n bass",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-21T16:06:52.915Z[UTC]",
+    "searchQuery" : "dro",
+    "searchInteractionURIs" : [
+      "spotify:artist:0u18Cq5stIQLUoIaULzDmA"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-21T19:43:25.136Z[UTC]",
+    "searchQuery" : "major",
+    "searchInteractionURIs" : [
+      "spotify:artist:738wLrAtLtCtFOLvQBXOXp",
+      "spotify:playlist:37i9dQZF1DX0MiLwiDL8lJ"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-21T21:26:31.224Z[UTC]",
+    "searchQuery" : "drum n bass",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-21T22:15:30.388Z[UTC]",
+    "searchQuery" : "drum n bass",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-21T23:10:20.816Z[UTC]",
+    "searchQuery" : "tieten",
+    "searchInteractionURIs" : [
+      "spotify:track:4T2mvqNOm67uvkCyfIHzPV",
+      "spotify:playlist:0tVjERq5wdWrcc45VhUbRK",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-21T23:19:52.192Z[UTC]",
+    "searchQuery" : "skinny je",
+    "searchInteractionURIs" : [
+      "spotify:track:0b6mTlLYNEmHjjCnkrzDie",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-21T23:22:40.999Z[UTC]",
+    "searchQuery" : "willie ",
+    "searchInteractionURIs" : [
+      "spotify:artist:4usBxmpmHRVy92QbcWk0M7",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-21T23:23:24.512Z[UTC]",
+    "searchQuery" : "s10 ronnie",
+    "searchInteractionURIs" : [
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-21T23:23:45.022Z[UTC]",
+    "searchQuery" : "dio",
+    "searchInteractionURIs" : [
+      "spotify:artist:2Np3tBLhkFCcJPun4KhrDQ"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-22T10:43:02.480Z[UTC]",
+    "searchQuery" : "drum n bass",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-22T18:55:58.592Z[UTC]",
+    "searchQuery" : "robyn",
+    "searchInteractionURIs" : [
+      "spotify:artist:6UE7nl9mha6s8z0wFQFIZ2"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-23T09:24:06.130Z[UTC]",
+    "searchQuery" : "you & i",
+    "searchInteractionURIs" : [
+      "spotify:track:0PX9O7QzWYClP6PPuIaomj"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-23T12:31:33.771Z[UTC]",
+    "searchQuery" : "u & i",
+    "searchInteractionURIs" : [
+      "spotify:track:46lFttIf5hnUZMGvjK0Wxo",
+      "spotify:track:46lFttIf5hnUZMGvjK0Wxo"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-23T21:12:44.563Z[UTC]",
+    "searchQuery" : "fro",
+    "searchInteractionURIs" : [
+      "spotify:artist:0uBVyPbLZRDNEBiA4fZUlp",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-23T21:53:34.839Z[UTC]",
+    "searchQuery" : "merol",
+    "searchInteractionURIs" : [
+      "spotify:artist:7J41Q5hdwuBgyVo7zGhPhO"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-24T06:29:46.551Z[UTC]",
+    "searchQuery" : "rel",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZEVXbdHNQwefwwU7"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-24T07:52:37.050Z[UTC]",
+    "searchQuery" : "rel",
+    "searchInteractionURIs" : [
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-24T08:00:36.043Z[UTC]",
+    "searchQuery" : "bie",
+    "searchInteractionURIs" : [
+      "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-24T08:11:34.707Z[UTC]",
+    "searchQuery" : "bie",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DXc2aPBXGmXrt"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-24T11:01:54.047Z[UTC]",
+    "searchQuery" : "s10",
+    "searchInteractionURIs" : [
+      "spotify:artist:1zT9SWCzN45r7oVhy0VYLK"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-24T14:56:12.150Z[UTC]",
+    "searchQuery" : "knaldrang",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-24T14:56:40.636Z[UTC]",
+    "searchQuery" : "knaldrang ",
+    "searchInteractionURIs" : [
+      "spotify:track:0ekV6d6sL5dtjhsMUG6kTT",
+      "spotify:track:0ekV6d6sL5dtjhsMUG6kTT",
+      "spotify:track:0ekV6d6sL5dtjhsMUG6kTT"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-24T18:42:09.476Z[UTC]",
+    "searchQuery" : "kaiser",
+    "searchInteractionURIs" : [
+      "spotify:artist:0LbLWjaweRbO4FDKYlbfNt",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-24T18:43:54.527Z[UTC]",
+    "searchQuery" : "rock",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DWXRqgorJj26U",
+      "spotify:playlist:37i9dQZF1DX8FwnYE6PRvL"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-25T14:15:31.539Z[UTC]",
+    "searchQuery" : "disco",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZEVXcK9dJ9AiNwYk"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-25T14:16:46.803Z[UTC]",
+    "searchQuery" : "disco",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-25T14:50:06.906Z[UTC]",
+    "searchQuery" : "hayle",
+    "searchInteractionURIs" : [
+      "",
+      "spotify:artist:6Rx1JKzBrSzoKQtmbVmBnM"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-27T09:28:33.304Z[UTC]",
+    "searchQuery" : "twch",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-28T09:05:21.961Z[UTC]",
+    "searchQuery" : "grieg",
+    "searchInteractionURIs" : [
+      "spotify:artist:5ihY290YPGc3aY2xTyx7Gy",
+      "spotify:playlist:37i9dQZF1DX8hzQwGhYRlj"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-29T10:24:25.455Z[UTC]",
+    "searchQuery" : "queen",
+    "searchInteractionURIs" : [
+      "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-29T22:23:25.563Z[UTC]",
+    "searchQuery" : "dizzie",
+    "searchInteractionURIs" : [
+      "spotify:artist:0gusqTJKxtU1UTmNRMHZcv"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-29T22:25:19.197Z[UTC]",
+    "searchQuery" : "john new",
+    "searchInteractionURIs" : [
+      "spotify:artist:34v5MVKeQnIo0CWYMbbrPf"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-29T22:26:05.057Z[UTC]",
+    "searchQuery" : "john newman remix",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-29T22:26:15.871Z[UTC]",
+    "searchQuery" : "ghost town",
+    "searchInteractionURIs" : [
+      "spotify:track:7vgTNTaEz3CsBZ1N4YQalM"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-29T22:36:12.067Z[UTC]",
+    "searchQuery" : "crypt o",
+    "searchInteractionURIs" : [
+      "spotify:album:3nZQnXN0pPRe4QccJXHPS6",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-29T23:46:39.742Z[UTC]",
+    "searchQuery" : "john new",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-29T23:46:42.161Z[UTC]",
+    "searchQuery" : "joh",
+    "searchInteractionURIs" : [
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-29T23:46:44.209Z[UTC]",
+    "searchQuery" : "rudi",
+    "searchInteractionURIs" : [
+      "spotify:artist:4WN5naL3ofxrVBgFpguzKo",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-29T23:47:25.518Z[UTC]",
+    "searchQuery" : "jun",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DZ06evO31HQAw"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-29T23:47:37.254Z[UTC]",
+    "searchQuery" : "jungle",
+    "searchInteractionURIs" : [
+      "spotify:search:playlists:jungle"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-29T23:47:45.564Z[UTC]",
+    "searchQuery" : "jungle",
+    "searchInteractionURIs" : [
+      "spotify:playlist:4ERRrU4Tkxcqi7nQO2sLo5"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-29T23:49:11.191Z[UTC]",
+    "searchQuery" : "santigolf ca",
+    "searchInteractionURIs" : [
+      "spotify:track:7eIfYwON9Ln8EPfFawfVuJ"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-29T23:51:34.368Z[UTC]",
+    "searchQuery" : "flux stop",
+    "searchInteractionURIs" : [
+      "spotify:track:03EuhmMsEHVFI9ytainStU"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-29T23:51:55.283Z[UTC]",
+    "searchQuery" : "b",
+    "searchInteractionURIs" : [
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-29T23:52:00.404Z[UTC]",
+    "searchQuery" : "gold dust",
+    "searchInteractionURIs" : [
+      "spotify:track:52LrKVv3IZEybNHDg6SLAe",
+      "spotify:track:1OmOrxBoUR40WvgBNQjylK"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-11-29T23:52:26.022Z[UTC]",
+    "searchQuery" : "gold dust dj ",
+    "searchInteractionURIs" : [
+      "spotify:track:2qugfmw9Hi27DyIo2gite4"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-30T10:10:41.476Z[UTC]",
+    "searchQuery" : "bon iver",
+    "searchInteractionURIs" : [
+      "spotify:artist:4LEiUm1SRbFMgfqnQTwUbQ"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-30T10:27:08.593Z[UTC]",
+    "searchQuery" : " ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-11-30T14:01:50.560Z[UTC]",
+    "searchQuery" : "focsu",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DWZZbwlv3Vmtr"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-01T07:05:11.828Z[UTC]",
+    "searchQuery" : "anne",
+    "searchInteractionURIs" : [
+      "spotify:show:1yjIFqg2NGLWRFd8yWsNNq"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-01T07:24:48.621Z[UTC]",
+    "searchQuery" : "anne",
+    "searchInteractionURIs" : [
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-01T07:26:38.731Z[UTC]",
+    "searchQuery" : "adam driver",
+    "searchInteractionURIs" : [
+      "spotify:search:shows:adam%20driver",
+      "spotify:episode:1ivIP3W3tUOPp8Wep66l6h",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-01T07:26:45.528Z[UTC]",
+    "searchQuery" : "adam driver",
+    "searchInteractionURIs" : [
+      "spotify:show:71vfm5HQJTvBhjZVaEewLy",
+      "spotify:show:7oy55GhLxHTAKGAlitxENY"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-01T07:27:27.927Z[UTC]",
+    "searchQuery" : "jemima kirke",
+    "searchInteractionURIs" : [
+      "spotify:episode:2awDPeyLzftq0fJO4nVcqc",
+      "spotify:episode:1ctvy14B0l1QeFobIWQYdc",
+      "spotify:search:audio_episodes:jemima%20kirke",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-01T07:28:04.186Z[UTC]",
+    "searchQuery" : "jemima kirke",
+    "searchInteractionURIs" : [
+      "spotify:episode:6qibnO0IGr7266UpcE2Nul",
+      "spotify:episode:6kBB16QDgWehGlpvsZU0rz",
+      "spotify:episode:0pcJwgjdWtGOhrjtWMen6E"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-01T07:58:56.020Z[UTC]",
+    "searchQuery" : "i got my ",
+    "searchInteractionURIs" : [
+      "spotify:playlist:6Werg4GoeORzSTOIJVHChl",
+      "spotify:track:3v1KkSyQUMeeNhhD0ACr7G"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-01T08:46:14.608Z[UTC]",
+    "searchQuery" : "focsu",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-02T12:23:58.528Z[UTC]",
+    "searchQuery" : "hang ",
+    "searchInteractionURIs" : [
+      "spotify:artist:33s4eablBmnrPlE3y6CZFR"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-02T14:02:18.611Z[UTC]",
+    "searchQuery" : "kyt",
+    "searchInteractionURIs" : [
+      "spotify:artist:1b4TI03HCPgv8pizohyjRB"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-02T23:20:47.568Z[UTC]",
+    "searchQuery" : "tess",
+    "searchInteractionURIs" : [
+      "spotify:track:45cecAG15kHBu74SvNe6ZI",
+      "spotify:track:45cecAG15kHBu74SvNe6ZI"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-03T12:01:34.575Z[UTC]",
+    "searchQuery" : "gary glitter",
+    "searchInteractionURIs" : [
+      "spotify:artist:61zv3hX7l838ZyhaDyAx8S"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-03T18:41:46.903Z[UTC]",
+    "searchQuery" : "r",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZEVXbdHNQwefwwU7"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-03T21:09:13.823Z[UTC]",
+    "searchQuery" : "thats love david guetta",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-04T07:46:39.250Z[UTC]",
+    "searchQuery" : "Mikael Seifu",
+    "searchInteractionURIs" : [
+      "spotify:artist:21WZbOCU9nis3tJgqv0rFX",
+      "spotify:artist:21WZbOCU9nis3tJgqv0rFX"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-04T20:20:56.668Z[UTC]",
+    "searchQuery" : "duo",
+    "searchInteractionURIs" : [
+      "spotify:artist:6M2wZ9GZgrQXHCFfjv46we",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-04T20:21:41.967Z[UTC]",
+    "searchQuery" : "the w",
+    "searchInteractionURIs" : [
+      "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-04T20:23:55.607Z[UTC]",
+    "searchQuery" : "rel",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZEVXbdHNQwefwwU7"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-04T21:17:45.410Z[UTC]",
+    "searchQuery" : "chill",
+    "searchInteractionURIs" : [
+      "spotify:playlist:1EfMjq9JWAcCttwpc1LH3p"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-05T13:12:39.603Z[UTC]",
+    "searchQuery" : "sinterk",
+    "searchInteractionURIs" : [
+      "spotify:playlist:7FCV3tyDa9CHUZWQgrnISi"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-06T10:24:16.804Z[UTC]",
+    "searchQuery" : "tokio",
+    "searchInteractionURIs" : [
+      "spotify:search:tokio:tracks"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-06T16:54:15.170Z[UTC]",
+    "searchQuery" : "zach b",
+    "searchInteractionURIs" : [
+      "spotify:show:6qckOLN3q2qpZilM6i1MKv"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-06T23:19:17.623Z[UTC]",
+    "searchQuery" : "ten",
+    "searchInteractionURIs" : [
+      "spotify:album:3XVZnD9SKNPcN3YJvho9Y7"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-06T23:21:03.689Z[UTC]",
+    "searchQuery" : "tenet remix",
+    "searchInteractionURIs" : [
+      "spotify:track:5GWD4mCUOTOdsw6ZPf1ftA"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-08T07:14:33.291Z[UTC]",
+    "searchQuery" : "smudgedtoads",
+    "searchInteractionURIs" : [
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-08T07:18:53.994Z[UTC]",
+    "searchQuery" : "de staat",
+    "searchInteractionURIs" : [
+      "spotify:artist:4rZJKub3qA5t1yYcT3qmm4"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-09T07:39:37.062Z[UTC]",
+    "searchQuery" : "rel",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZEVXbdHNQwefwwU7"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-09T07:49:30.439Z[UTC]",
+    "searchQuery" : "release",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZEVXbdHNQwefwwU7",
+      "spotify:playlist:37i9dQZEVXbdHNQwefwwU7"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-09T09:40:57.131Z[UTC]",
+    "searchQuery" : "release",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-09T09:44:01.154Z[UTC]",
+    "searchQuery" : "discov ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-09T09:45:30.544Z[UTC]",
+    "searchQuery" : "discov  ",
+    "searchInteractionURIs" : [
+      "spotify:track:1TIiWomS4i0Ikaf9EKdcLn",
+      "spotify:track:1TIiWomS4i0Ikaf9EKdcLn"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-09T10:36:13.003Z[UTC]",
+    "searchQuery" : "hayley",
+    "searchInteractionURIs" : [
+      "spotify:artist:6Rx1JKzBrSzoKQtmbVmBnM"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-09T17:02:58.579Z[UTC]",
+    "searchQuery" : "pho",
+    "searchInteractionURIs" : [
+      "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-10T09:30:42.522Z[UTC]",
+    "searchQuery" : "miley cyrus",
+    "searchInteractionURIs" : [
+      "spotify:artist:5YGY8feqx7naU7z4HrwZM6",
+      "spotify:artist:5YGY8feqx7naU7z4HrwZM6"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-10T10:13:12.516Z[UTC]",
+    "searchQuery" : "donna",
+    "searchInteractionURIs" : [
+      "spotify:artist:2eogQKWWoohI3BSnoG7E2U",
+      "spotify:artist:2eogQKWWoohI3BSnoG7E2U"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-10T12:07:00.647Z[UTC]",
+    "searchQuery" : "discover",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZEVXcK9dJ9AiNwYk"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-10T14:17:53.716Z[UTC]",
+    "searchQuery" : "holy holy",
+    "searchInteractionURIs" : [
+      "spotify:artist:5KeQyt1QJBjcutJ2AuLNO2"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-11T18:36:55.833Z[UTC]",
+    "searchQuery" : "froukje",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-11T22:34:08.215Z[UTC]",
+    "searchQuery" : "techn",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DX6J5NfMJS675"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-12T11:04:36.730Z[UTC]",
+    "searchQuery" : "y",
+    "searchInteractionURIs" : [
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-12T11:04:39.860Z[UTC]",
+    "searchQuery" : "mt",
+    "searchInteractionURIs" : [
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-12T11:04:41.625Z[UTC]",
+    "searchQuery" : "tayl",
+    "searchInteractionURIs" : [
+      "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-12T16:06:55.929Z[UTC]",
+    "searchQuery" : "techno",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DX6J5NfMJS675"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-12T18:22:50.972Z[UTC]",
+    "searchQuery" : "bon tayl",
+    "searchInteractionURIs" : [
+      "spotify:track:4pvb0WLRcMtbPGmtejJJ6y"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-12T22:34:11.997Z[UTC]",
+    "searchQuery" : "techno",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-13T02:06:45.818Z[UTC]",
+    "searchQuery" : "techno",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-13T12:30:30.322Z[UTC]",
+    "searchQuery" : "techno",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-13T21:10:34.494Z[UTC]",
+    "searchQuery" : "disco polis ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-13T22:07:45.079Z[UTC]",
+    "searchQuery" : "disco polis derfinf",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-13T22:37:00.468Z[UTC]",
+    "searchQuery" : "portish",
+    "searchInteractionURIs" : [
+      "spotify:artist:6liAMWkVf5LH7YR9yfFy1Y"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-14T07:19:19.445Z[UTC]",
+    "searchQuery" : "3fm",
+    "searchInteractionURIs" : [
+      "spotify:playlist:6gIAkN8yDny047kJjj2bNy"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-14T07:38:55.754Z[UTC]",
+    "searchQuery" : "techno",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-14T07:48:00.266Z[UTC]",
+    "searchQuery" : "techno",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-14T16:18:37.852Z[UTC]",
+    "searchQuery" : "roby",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DX85rC3jeA4Eh"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-14T22:37:01.427Z[UTC]",
+    "searchQuery" : "roby",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-15T03:41:54.502Z[UTC]",
+    "searchQuery" : "roby",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-15T06:33:30.315Z[UTC]",
+    "searchQuery" : "roby",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-15T06:36:07.290Z[UTC]",
+    "searchQuery" : "fro",
+    "searchInteractionURIs" : [
+      "spotify:artist:0uBVyPbLZRDNEBiA4fZUlp"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-15T07:21:20.401Z[UTC]",
+    "searchQuery" : "fro",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-15T07:32:08.252Z[UTC]",
+    "searchQuery" : "jack",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-15T08:52:50.149Z[UTC]",
+    "searchQuery" : "roby",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-15T21:57:58.469Z[UTC]",
+    "searchQuery" : "daft punk funk",
+    "searchInteractionURIs" : [
+      "spotify:track:0MyY4WcN7DIfbSmp5yej5z",
+      "spotify:track:0MyY4WcN7DIfbSmp5yej5z"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-16T11:44:49.174Z[UTC]",
+    "searchQuery" : "roby",
+    "searchInteractionURIs" : [
+      "spotify:artist:6UE7nl9mha6s8z0wFQFIZ2"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-17T12:58:11.341Z[UTC]",
+    "searchQuery" : "disc",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZEVXcK9dJ9AiNwYk",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-17T13:45:34.016Z[UTC]",
+    "searchQuery" : "rel",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZEVXbdHNQwefwwU7",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-17T13:46:12.601Z[UTC]",
+    "searchQuery" : "thom ",
+    "searchInteractionURIs" : [
+      "spotify:artist:4CvTDPKA6W06DRfBnZKrau"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-17T15:25:52.676Z[UTC]",
+    "searchQuery" : "techno",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DX6J5NfMJS675"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-17T23:21:16.461Z[UTC]",
+    "searchQuery" : "eef",
+    "searchInteractionURIs" : [
+      "spotify:artist:33KABng8GO42ojFJVcABxQ"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-18T08:57:55.157Z[UTC]",
+    "searchQuery" : "sold",
+    "searchInteractionURIs" : [
+      "spotify:track:5ciRElWhvA0LuG2hQi90Ie",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-18T09:00:20.052Z[UTC]",
+    "searchQuery" : "danny",
+    "searchInteractionURIs" : [
+      "spotify:artist:1bObiFZkYu7IfzxVlAVj5x"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-18T10:01:37.092Z[UTC]",
+    "searchQuery" : "techno",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-18T11:33:24.636Z[UTC]",
+    "searchQuery" : "tech",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DX6J5NfMJS675"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-18T11:38:08.042Z[UTC]",
+    "searchQuery" : "techno",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-18T12:40:04.425Z[UTC]",
+    "searchQuery" : "techno",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-18T12:49:22.226Z[UTC]",
+    "searchQuery" : "techno",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-18T16:13:58.688Z[UTC]",
+    "searchQuery" : "fa",
+    "searchInteractionURIs" : [
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-18T16:14:00.484Z[UTC]",
+    "searchQuery" : "danny",
+    "searchInteractionURIs" : [
+      "spotify:artist:1bObiFZkYu7IfzxVlAVj5x",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-18T16:43:26.662Z[UTC]",
+    "searchQuery" : "osca",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DZ06evO03OfK0"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-18T18:50:55.914Z[UTC]",
+    "searchQuery" : "post",
+    "searchInteractionURIs" : [
+      "spotify:artist:246dkjvS1zLTtiykXe5h60",
+      "spotify:playlist:37i9dQZF1DWSWllk9RmgZM"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-19T00:28:24.504Z[UTC]",
+    "searchQuery" : "techno",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-19T00:48:09.319Z[UTC]",
+    "searchQuery" : "techno",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-19T00:56:37.302Z[UTC]",
+    "searchQuery" : "techno",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-19T01:03:48.819Z[UTC]",
+    "searchQuery" : "techno",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-19T01:11:26.555Z[UTC]",
+    "searchQuery" : "techno",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-19T01:20:09.666Z[UTC]",
+    "searchQuery" : "techno",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-19T02:56:34.956Z[UTC]",
+    "searchQuery" : "techno",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-19T03:45:19.940Z[UTC]",
+    "searchQuery" : "techno",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-19T03:51:43.436Z[UTC]",
+    "searchQuery" : "techno",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-19T03:57:00.485Z[UTC]",
+    "searchQuery" : "techno",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-19T04:17:22.593Z[UTC]",
+    "searchQuery" : "techno",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-19T04:55:17.973Z[UTC]",
+    "searchQuery" : "techno",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-19T16:56:10.137Z[UTC]",
+    "searchQuery" : "re",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZEVXbdHNQwefwwU7"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-19T21:04:53.104Z[UTC]",
+    "searchQuery" : "one by one",
+    "searchInteractionURIs" : [
+      "spotify:track:5MV6RJi6RUv84qHwBumbui",
+      "spotify:track:2Bth0lKHTVSUyLdBcdxA2h",
+      "spotify:track:2uQGsGx9GUzYDWjbWzOALs",
+      "spotify:track:09C1pactnDRAQaNqjY8VJe",
+      "spotify:track:1ueOEwIxlCAivSC8ZrA5xW",
+      "spotify:track:39Vj70brMSTXWUHR3uMPiq",
+      "spotify:track:5F1ZjpCFKcgk4VcsL2on2h",
+      "spotify:search:tracks:one%20by%20one"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-19T21:05:17.958Z[UTC]",
+    "searchQuery" : "one by one",
+    "searchInteractionURIs" : [
+      "spotify:track:6zMh9TiCp2qCwqj1ImfkF3",
+      "spotify:track:3d4opgagC9pd2fhDL4HOC3",
+      "spotify:track:65sql5o05skwJ6frSq4exl",
+      "spotify:track:3d4opgagC9pd2fhDL4HOC3",
+      "spotify:track:65sql5o05skwJ6frSq4exl",
+      "spotify:track:6bhMtHV0mgc9drdVzTNe5c",
+      "spotify:track:3OJQ53NHwPC2rKKwE5wvdc",
+      "spotify:track:6bhMtHV0mgc9drdVzTNe5c",
+      "spotify:track:3OJQ53NHwPC2rKKwE5wvdc"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-19T21:05:44.401Z[UTC]",
+    "searchQuery" : "one by one suriname",
+    "searchInteractionURIs" : [
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-19T21:05:48.762Z[UTC]",
+    "searchQuery" : "garr",
+    "searchInteractionURIs" : [
+      "spotify:search:user_profiles:garr",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-19T21:06:09.795Z[UTC]",
+    "searchQuery" : "one by ond",
+    "searchInteractionURIs" : [
+      "spotify:search:artists:one%20by%20ond",
+      "spotify:search:tracks:one%20by%20ond"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-19T21:06:13.430Z[UTC]",
+    "searchQuery" : "one by ond",
+    "searchInteractionURIs" : [
+      "spotify:track:6Z2iqjGAGeSvrPOAFNX0NQ",
+      "spotify:track:6zMh9TiCp2qCwqj1ImfkF3",
+      "spotify:track:0sl5z6ZGLHK08MNnWh99sE"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-19T21:06:16.666Z[UTC]",
+    "searchQuery" : "one by ond",
+    "searchInteractionURIs" : [
+      "spotify:track:3A7oG6tKOaez1y8EIg2Ux3",
+      "spotify:track:3A7oG6tKOaez1y8EIg2Ux3",
+      "spotify:track:3A7oG6tKOaez1y8EIg2Ux3"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-19T21:09:52.885Z[UTC]",
+    "searchQuery" : "suriname",
+    "searchInteractionURIs" : [
+      "spotify:track:4RUzLjGukbMsRmEkorkYda",
+      "spotify:track:4RUzLjGukbMsRmEkorkYda"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-19T21:10:10.228Z[UTC]",
+    "searchQuery" : "surina",
+    "searchInteractionURIs" : [
+      "spotify:playlist:6I7srEDb5s6X9M9pKjYuBA",
+      "spotify:playlist:6V5TELHaav9H2NaiUczcTD",
+      "spotify:search:tracks:surina",
+      "spotify:search:playlists:surina"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-19T21:12:25.923Z[UTC]",
+    "searchQuery" : "suriname",
+    "searchInteractionURIs" : [
+      "spotify:search:playlists:suriname"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-19T21:12:27.475Z[UTC]",
+    "searchQuery" : "suriname",
+    "searchInteractionURIs" : [
+      "spotify:playlist:6TyFbGlmtQmwvrb9kGuubJ",
+      "spotify:playlist:5cLHEtO94js8gfUKXxJVsa"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-19T21:12:53.789Z[UTC]",
+    "searchQuery" : "suriname",
+    "searchInteractionURIs" : [
+      "spotify:playlist:0LkBF26Hz0CwuF0u33lxkO"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-21T22:43:21.030Z[UTC]",
+    "searchQuery" : "minka so",
+    "searchInteractionURIs" : [
+      "spotify:track:1Qp89yhsJOtmHlvRwbA7A6"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-22T06:33:50.698Z[UTC]",
+    "searchQuery" : "max norm",
+    "searchInteractionURIs" : [
+      "spotify:artist:6klB70v9fPkNc3IKDORAW7"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-22T06:33:57.138Z[UTC]",
+    "searchQuery" : "max normal",
+    "searchInteractionURIs" : [
+      "spotify:track:1IFl83lAEDGmrDajdvtfke",
+      "spotify:artist:6klB70v9fPkNc3IKDORAW7",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-22T06:55:14.310Z[UTC]",
+    "searchQuery" : "kill",
+    "searchInteractionURIs" : [
+      "spotify:artist:0C0XlULifJtAgn6ZNCW2eu"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-22T06:57:34.907Z[UTC]",
+    "searchQuery" : "sunrise s",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-22T11:44:54.938Z[UTC]",
+    "searchQuery" : "put your han",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-22T11:59:42.283Z[UTC]",
+    "searchQuery" : "bieber",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DXc2aPBXGmXrt"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-22T16:11:20.619Z[UTC]",
+    "searchQuery" : "bieber chri",
+    "searchInteractionURIs" : [
+      "spotify:playlist:4QR5xddaL3V1r6XuwPxpR7",
+      "spotify:playlist:4QR5xddaL3V1r6XuwPxpR7",
+      "spotify:playlist:4QR5xddaL3V1r6XuwPxpR7"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-23T06:38:51.502Z[UTC]",
+    "searchQuery" : "4",
+    "searchInteractionURIs" : [
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-23T06:38:53.209Z[UTC]",
+    "searchQuery" : "3fm",
+    "searchInteractionURIs" : [
+      "spotify:playlist:6gIAkN8yDny047kJjj2bNy"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-23T18:52:28.581Z[UTC]",
+    "searchQuery" : "godsleed black",
+    "searchInteractionURIs" : [
+      "spotify:artist:4svpOyfmQKuWpHLjgy4cdK"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-23T22:56:07.532Z[UTC]",
+    "searchQuery" : "godsleed black",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-24T11:53:21.228Z[UTC]",
+    "searchQuery" : "Clutch FAT SEGAL",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-24T11:53:41.616Z[UTC]",
+    "searchQuery" : "FAT SEGAL",
+    "searchInteractionURIs" : [
+      "spotify:playlist:29l6yQNjA8VnxMIw73pIxq"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-24T11:55:04.604Z[UTC]",
+    "searchQuery" : "Bad Before Good DAY ONEaOrgan Donor DJ SHADOW",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-24T11:55:05.630Z[UTC]",
+    "searchQuery" : "Organ Donor DJ SHADOW",
+    "searchInteractionURIs" : [
+      "spotify:track:6TdnvxC5E146AXv1doDshO"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-24T11:55:20.370Z[UTC]",
+    "searchQuery" : "The Limit To Your Love FEIST",
+    "searchInteractionURIs" : [
+      "spotify:track:2R2sXZXyRcEMdoHxeYyBtF"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-24T11:55:51.920Z[UTC]",
+    "searchQuery" : "Seven Year Surrender JILL COHN ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-24T11:56:16.209Z[UTC]",
+    "searchQuery" : "DJ Shadow ",
+    "searchInteractionURIs" : [
+      "spotify:artist:5CE2IfdYZEQGIDsfiRm8SI",
+      "spotify:artist:5CE2IfdYZEQGIDsfiRm8SI",
+      "spotify:playlist:37i9dQZF1DZ06evO3jiYEw"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-24T11:57:51.673Z[UTC]",
+    "searchQuery" : "skins season 2",
+    "searchInteractionURIs" : [
+      "spotify:playlist:3uSVQf5xT3sVmSp3dGt8o6",
+      "spotify:playlist:29YUKlc9amCmDBchXYBA1f",
+      "spotify:search:skins%20season%202:playlists"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-24T12:00:44.032Z[UTC]",
+    "searchQuery" : "clutch",
+    "searchInteractionURIs" : [
+      "spotify:search:clutch:tracks"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-24T12:01:28.427Z[UTC]",
+    "searchQuery" : "clutch skins",
+    "searchInteractionURIs" : [
+      "spotify:playlist:3zG184laxC9oaRJeplsfp1",
+      "spotify:episode:3UBZw5U3WVkHktHnq0DLCj"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-24T12:03:11.332Z[UTC]",
+    "searchQuery" : "uk grime",
+    "searchInteractionURIs" : [
+      "spotify:playlist:76IHKC783C1yh3gNbtwA7X"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-24T12:03:19.531Z[UTC]",
+    "searchQuery" : "uk dub",
+    "searchInteractionURIs" : [
+      "spotify:playlist:0LqoDVNz7OUYVo6xp6BqoM"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-26T19:52:05.775Z[UTC]",
+    "searchQuery" : "Alles Kapot Goldband",
+    "searchInteractionURIs" : [
+      "spotify:track:1XoeCXwrqvkjkEKZl7VwrJ"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-27T11:06:42.623Z[UTC]",
+    "searchQuery" : "g",
+    "searchInteractionURIs" : [
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-27T11:06:44.980Z[UTC]",
+    "searchQuery" : "tech",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DX6J5NfMJS675"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-28T08:15:32.687Z[UTC]",
+    "searchQuery" : "bieb",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DXc2aPBXGmXrt",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-28T09:15:33.766Z[UTC]",
+    "searchQuery" : "aph",
+    "searchInteractionURIs" : [
+      "spotify:artist:6kBDZFXuLrZgHnvmPu9NsG",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-28T09:52:19.419Z[UTC]",
+    "searchQuery" : "fro",
+    "searchInteractionURIs" : [
+      "spotify:artist:0uBVyPbLZRDNEBiA4fZUlp",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-29T16:25:40.827Z[UTC]",
+    "searchQuery" : "focus",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DWZZbwlv3Vmtr"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-31T08:53:34.293Z[UTC]",
+    "searchQuery" : "pappy",
+    "searchInteractionURIs" : [
+      "spotify:search:artists:pappy"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-31T08:53:37.121Z[UTC]",
+    "searchQuery" : "pappy",
+    "searchInteractionURIs" : [
+      "spotify:artist:6yTgJdVUFdBwtb4J8RJ7d7"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-31T11:00:18.256Z[UTC]",
+    "searchQuery" : "rel",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZEVXbdHNQwefwwU7"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-31T11:00:56.851Z[UTC]",
+    "searchQuery" : "re",
+    "searchInteractionURIs" : [
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-31T11:00:57.947Z[UTC]",
+    "searchQuery" : "3",
+    "searchInteractionURIs" : [
+      "spotify:playlist:6gIAkN8yDny047kJjj2bNy"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-31T23:53:00.380Z[UTC]",
+    "searchQuery" : "diana",
+    "searchInteractionURIs" : [
+      "spotify:artist:3MdG05syQeRYPPcClLaUGl"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-31T23:53:09.989Z[UTC]",
+    "searchQuery" : "diana i feel",
+    "searchInteractionURIs" : [
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-31T23:53:13.748Z[UTC]",
+    "searchQuery" : "i feel",
+    "searchInteractionURIs" : [
+      "spotify:track:1vCBk33l9HaWp5FOnhSGxk",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-31T23:54:25.615Z[UTC]",
+    "searchQuery" : "alone ",
+    "searchInteractionURIs" : [
+      "spotify:track:0bMbDctzMmTyK2j74j3nF3",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-01-01T00:01:08.779Z[UTC]",
+    "searchQuery" : "a2m",
+    "searchInteractionURIs" : [
+      "spotify:track:6gPqBegU4aDWoSYXeCyURA"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-01-01T00:16:50.580Z[UTC]",
+    "searchQuery" : "bieb",
+    "searchInteractionURIs" : [
+      "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-01-01T00:16:56.923Z[UTC]",
+    "searchQuery" : "bieber sor",
+    "searchInteractionURIs" : [
+      "spotify:track:09CtPGIpYB4BrO8qb1RGsF"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-01-01T00:26:57.611Z[UTC]",
+    "searchQuery" : "road",
+    "searchInteractionURIs" : [
+      "spotify:playlist:6HqVRuOtcfySXp6g97FBJ5",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-01-01T00:59:45.138Z[UTC]",
+    "searchQuery" : "i love ",
+    "searchInteractionURIs" : [
+      "spotify:track:2U8NXPTXZWG2O0ye2sYRiH"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-01-01T05:16:55.137Z[UTC]",
+    "searchQuery" : "bieb",
+    "searchInteractionURIs" : [
+      "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-01-01T20:18:55.494Z[UTC]",
+    "searchQuery" : "re",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZEVXbdHNQwefwwU7"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-01-03T09:27:16.018Z[UTC]",
+    "searchQuery" : "g",
+    "searchInteractionURIs" : [
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-01-03T09:27:19.395Z[UTC]",
+    "searchQuery" : "high sc",
+    "searchInteractionURIs" : [
+      "spotify:playlist:6B74kB13ky4k8RVGQSbSUl"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2021-01-03T11:56:41.632Z[UTC]",
+    "searchQuery" : "sbontje",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2021-01-03T11:56:49.200Z[UTC]",
+    "searchQuery" : "hiphop",
+    "searchInteractionURIs" : [
+      "spotify:playlist:5TZkls9cEOzWDR6qCxwDot",
+      "spotify:playlist:6h2G7A5B401eA2BauiXf5I",
+      "spotify:playlist:6h2G7A5B401eA2BauiXf5I"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-01-03T23:17:09.821Z[UTC]",
+    "searchQuery" : "blood ba",
+    "searchInteractionURIs" : [
+      "spotify:track:7qUoDTmVj07qUf6ZBDhWKl",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-01-03T23:22:43.393Z[UTC]",
+    "searchQuery" : "j",
+    "searchInteractionURIs" : [
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-01-03T23:22:47.627Z[UTC]",
+    "searchQuery" : "bon iver tay",
+    "searchInteractionURIs" : [
+      "spotify:track:5S4aYQAJOwJMAamANWlICO",
+      "spotify:track:3O5osWf1rSoKMwe6E9ZaXP"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-01-03T23:24:55.929Z[UTC]",
+    "searchQuery" : "famou",
+    "searchInteractionURIs" : [
+      "spotify:track:19a3JfW8BQwqHWUMbcqSx8"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-01-03T23:37:37.130Z[UTC]",
+    "searchQuery" : "famous",
+    "searchInteractionURIs" : [
+      "spotify:track:19a3JfW8BQwqHWUMbcqSx8",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-01-03T23:38:17.523Z[UTC]",
+    "searchQuery" : "kanye west taylor swift",
+    "searchInteractionURIs" : [
+      "spotify:playlist:3FsIU2c0ASv3uGPfIEL9Tz"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-01-04T14:19:46.101Z[UTC]",
+    "searchQuery" : "tre",
+    "searchInteractionURIs" : [
+      "spotify:artist:4O71i7ke5iIBX6RNSFoZbS"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2021-01-04T15:47:41.178Z[UTC]",
+    "searchQuery" : "royksopp",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-01-04T17:31:59.986Z[UTC]",
+    "searchQuery" : "bieb",
+    "searchInteractionURIs" : [
+      "spotify:artist:1uNFoZAHBGtllmzznpCI3s",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-01-04T18:07:18.274Z[UTC]",
+    "searchQuery" : "tijd",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-01-04T18:26:33.827Z[UTC]",
+    "searchQuery" : "pinb",
+    "searchInteractionURIs" : [
+      "spotify:track:6LbbHFEajG9e4m0G3L47c4"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-01-04T18:26:49.664Z[UTC]",
+    "searchQuery" : "see me the who",
+    "searchInteractionURIs" : [
+      "spotify:track:7HVLE4CWBQjQi3Vyiz0fbe"
+    ]
+  }
+]
