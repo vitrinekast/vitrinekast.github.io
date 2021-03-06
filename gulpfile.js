@@ -49,9 +49,9 @@ const setTitle = () => {
 const setNav = () => {
   let list;
   let html;
-  const r = new RegExp("<ul[^>]*>(.*?)<\/ul>", 'g');
-  return gulp.src(config.html.main)
 
+  const regex = /<ul>(.*?)<\/ul>/gs;
+  return gulp.src(config.html.main)
     .pipe(tap((file) => {
       list = [];
       html = '';
@@ -64,11 +64,10 @@ const setNav = () => {
             list.push(item)
           }
         })
-        console.log(file);
-      file.contents = new Buffer.from(String(file.contents)
-        .replace(r, `<ul>${html}</ul>`)
-      );
 
+      file.contents = new Buffer.from(String(file.contents)
+        .replace(regex, `<ul>${html}</ul>`)
+      );
     }))
     .pipe(gulp.dest(config.html.dest));
 }
