@@ -14,6 +14,8 @@ const s = (sketch) => {
         sketch.noStroke();
         var step = 10;
         sketch.strokeWeight(step);
+
+        
         for (let i = step / 2; i < img.width; i += step) {
 
             let c = img.get(i, 0);
