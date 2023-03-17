@@ -34,7 +34,7 @@ const s = (sketch) => {
 
         return new Promise(function (resolve, reject) {
 
-            sketch.loadJSON(`../_scraper/${username}/${username}.json`, (data) => {
+            sketch.loadJSON(`https://raw.githubusercontent.com/vitrinekast/vitrinekast.github.io/main/${username}/${username}.json`, (data) => {
                 var results = [];
 
                 data.posts.forEach((item) => {
