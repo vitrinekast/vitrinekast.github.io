@@ -176,7 +176,7 @@ const s = (sketch) => {
 
     sketch.preload = () => {
         docTitle = document.title;
-        allUserData = sketch.loadJSON(`../_scraper/all.json`);
+        allUserData = sketch.loadJSON(`https://raw.githubusercontent.com/vitrinekast/vitrinekast.github.io/main/_scraper/all.json`);
     }
 
     sketch.setup = () => {
