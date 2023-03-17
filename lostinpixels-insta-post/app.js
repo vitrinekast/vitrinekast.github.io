@@ -29,12 +29,12 @@ const s = (sketch) => {
 
         return new Promise(function (resolve, reject) {
 
-            sketch.loadJSON(`../_scraper/${username}/${username}.json`, (data) => {
+            sketch.loadJSON(`https://raw.githubusercontent.com/vitrinekast/vitrinekast.github.io/main/_scraper/${username}/${username}.json`, (data) => {
 
                 data.posts = data.posts.reverse().slice(0, 1);
 
                 data.posts.forEach((post, index) => {
-                    sketch.loadImage(`../_scraper/${username}/${post}`, (result) => {
+                    sketch.loadImage(`https://raw.githubusercontent.com/vitrinekast/vitrinekast.github.io/main/_scraper/${username}/${post}`, (result) => {
                         images.push({
                             img: result,
                             timeAgo: getTimeAgo(post)
@@ -145,7 +145,7 @@ const s = (sketch) => {
 
     sketch.preload = () => {
         docTitle = document.title;
-        allUserData = sketch.loadJSON(`../_scraper/all.json`);
+        allUserData = sketch.loadJSON(`https://raw.githubusercontent.com/vitrinekast/vitrinekast.github.io/main/_scraper/all.json`);
     }
 
     sketch.setup = () => {
